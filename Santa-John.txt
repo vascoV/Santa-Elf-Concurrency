@@ -1,0 +1,240 @@
+Time 5: Santa John	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+Time 6: Santa John	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 6: Santa John	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+Time 6: Santa John	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 6: Santa John	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 7: Santa John	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 14: Santa John	Walked back to his own allocated department
+Time 20: Santa John	Gives Toy Gift Train	wrapped in pink wrapping paper
+
+Time 23: Santa John	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+
+Time 29: Santa John	Gives Toy Gift Doll	wrapped in blue wrapping paper
+
+Time 35: Santa John	Gives Toy Gift Drums	wrapped in pink wrapping paper
+
+Time 39: Santa John	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+
+Time 44: Santa John	Gives Toy Gift Car	wrapped in red wrapping paper
+
+Time 47: Santa John	Walked back to the Toy Store!
+Time 47: Santa John	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 47: Santa John	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+Time 55: Santa John	Walked back to his own allocated department
+Time 59: Santa John	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper
+
+Time 64: Santa John	Gives Toy Gift Doll	wrapped in silver wrapping paper
+
+Time 68: Santa John	Gives Toy Gift PC	wrapped in red wrapping paper
+
+Time 74: Santa John	Gives Toy Gift Drone	wrapped in silver wrapping paper
+
+Time 78: Santa John	Gives Toy Gift Car	wrapped in silver wrapping paper
+
+Time 82: Santa John	Gives Toy Gift Train	wrapped in silver wrapping paper
+
+Time 87: Santa John	Gives Toy Gift Drone	wrapped in pink wrapping paper
+
+Time 91: Santa John	Gives Toy Gift Drone	wrapped in pink wrapping paper
+
+Time 95: Santa John	Gives Toy Gift Drums	wrapped in red wrapping paper
+
+Time 99: Santa John	Gives Toy Gift Train	wrapped in silver wrapping paper
+
+Time 105: Santa John	Walked back to the Toy Store!
+Time 105: Santa John	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 105: Santa John	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+Time 109: Santa John	Walked back to his own allocated department
+Time 116: Santa John	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+
+Time 122: Santa John	Gives Toy Gift Drone	wrapped in pink wrapping paper
+
+Time 126: Santa John	Gives Toy Gift PC	wrapped in silver wrapping paper
+
+Time 133: Santa John	Gives Toy Gift Car	wrapped in silver wrapping paper
+
+Time 139: Santa John	Gives Toy Gift Car	wrapped in blue wrapping paper
+
+Time 144: Santa John	Gives Toy Gift Drums	wrapped in silver wrapping paper
+
+Time 152: Santa John	Gives Toy Gift Drone	wrapped in silver wrapping paper
+
+Time 158: Santa John	Gives Toy Gift Car	wrapped in pink wrapping paper
+
+Time 163: Santa John	Gives Toy Gift Drums	wrapped in pink wrapping paper
+
+Time 167: Santa John	Gives Toy Gift Train	wrapped in pink wrapping paper
+
+Time 175: Santa John	Walked back to the Toy Store!
+Time 175: Santa John	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 175: Santa John	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+Time 178: Santa John	Walked back to his own allocated department
+Time 183: Santa John	Gives Toy Gift Drone	wrapped in red wrapping paper
+
+Time 186: Santa John	Gives Toy Gift Guitar	wrapped in red wrapping paper
+
+Time 190: Santa John	Gives Toy Gift PC	wrapped in silver wrapping paper
+
+Time 196: Santa John	Gives Toy Gift PC	wrapped in red wrapping paper
+
+Time 200: Santa John	Gives Toy Gift Dinosaur	wrapped in blue wrapping paper
+
+Time 207: Santa John	Gives Toy Gift PC	wrapped in pink wrapping paper
+
+Time 212: Santa John	Gives Toy Gift Doll	wrapped in pink wrapping paper
+
+Time 220: Santa John	Gives Toy Gift Car	wrapped in blue wrapping paper
+
+Time 227: Santa John	Gives Toy Gift Drums	wrapped in red wrapping paper
+
+Time 234: Santa John	Gives Toy Gift Barbie	wrapped in red wrapping paper
+
+Time 239: Santa John	Walked back to the Toy Store!
+Time 239: Santa John	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 239: Santa John	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 243: Santa John	Walked back to his own allocated department
+Time 247: Santa John	Gives Toy Gift Car	wrapped in red wrapping paper
+
+Time 250: Santa John	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+
+Time 257: Santa John	Gives Toy Gift Drums	wrapped in pink wrapping paper
+
+Time 261: Santa John	Gives Toy Gift Car	wrapped in pink wrapping paper
+
+Time 266: Santa John	Gives Toy Gift Barbie	wrapped in pink wrapping paper
+
+Time 272: Santa John	Gives Toy Gift Guitar	wrapped in red wrapping paper
+
+Time 277: Santa John	Gives Toy Gift Drums	wrapped in silver wrapping paper
+
+Time 285: Santa John	Gives Toy Gift PC	wrapped in silver wrapping paper
+
+Time 290: Santa John	Gives Toy Gift PC	wrapped in red wrapping paper
+
+Time 294: Santa John	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+
+Time 297: Santa John	Walked back to the Toy Store!
+Time 297: Santa John	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+Time 297: Santa John	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+Time 305: Santa John	Walked back to his own allocated department
+Time 309: Santa John	Gives Toy Gift Puzzle	wrapped in blue wrapping paper
+
+Time 312: Santa John	Gives Toy Gift Drums	wrapped in red wrapping paper
+
+Time 319: Santa John	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+
+Time 326: Santa John	Gives Toy Gift Drone	wrapped in pink wrapping paper
+
+Time 334: Santa John	Gives Toy Gift Doll	wrapped in red wrapping paper
+
+Time 340: Santa John	Gives Toy Gift Tablet	wrapped in blue wrapping paper
+
+Time 346: Santa John	Gives Toy Gift Doll	wrapped in pink wrapping paper
+
+Time 349: Santa John	Gives Toy Gift PC	wrapped in blue wrapping paper
+
+Time 355: Santa John	Gives Toy Gift Drone	wrapped in silver wrapping paper
+
+Time 362: Santa John	Gives Toy Gift Drums	wrapped in silver wrapping paper
+
+Time 366: Santa John	Walked back to the Toy Store!
+Time 366: Santa John	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+Time 366: Santa John	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 371: Santa John	Walked back to his own allocated department
+Time 377: Santa John	Gives Toy Gift Car	wrapped in blue wrapping paper
+
+Time 381: Santa John	Gives Toy Gift Puzzle	wrapped in red wrapping paper
+
+Time 386: Santa John	Gives Toy Gift Puzzle	wrapped in pink wrapping paper
+
+Time 392: Santa John	Gives Toy Gift PC	wrapped in red wrapping paper
+
+Time 395: Santa John	Gives Toy Gift Drums	wrapped in blue wrapping paper
+
+Time 401: Santa John	Gives Toy Gift Guitar	wrapped in blue wrapping paper
+
+Time 406: Santa John	Gives Toy Gift Car	wrapped in pink wrapping paper
+
+Time 412: Santa John	Gives Toy Gift Car	wrapped in pink wrapping paper
+
+Time 418: Santa John	Gives Toy Gift Tablet	wrapped in pink wrapping paper
+
+Time 424: Santa John	Gives Toy Gift Drone	wrapped in red wrapping paper
+
+Time 431: Santa John	Walked back to the Toy Store!
+Time 431: Santa John	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+Time 431: Santa John	Took toy Gift Dinosaur	wrapped in blue wrapping paper from sleigh.
+Time 435: Santa John	Walked back to his own allocated department
+Time 440: Santa John	Gives Toy Gift Guitar	wrapped in pink wrapping paper
+
+Time 444: Santa John	Gives Toy Gift Drone	wrapped in red wrapping paper
+
+Time 449: Santa John	Gives Toy Gift Guitar	wrapped in red wrapping paper
+
+Time 456: Santa John	Gives Toy Gift Puzzle	wrapped in silver wrapping paper
+
+Time 464: Santa John	Gives Toy Gift Doll	wrapped in red wrapping paper
+
+Time 469: Santa John	Gives Toy Gift Dinosaur	wrapped in red wrapping paper
+
+Time 476: Santa John	Gives Toy Gift Train	wrapped in red wrapping paper
+
+Time 480: Santa John	Gives Toy Gift Drums	wrapped in red wrapping paper
+
+Time 480: Santa John	Walked back to the Toy Store!
