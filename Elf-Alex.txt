@@ -1,0 +1,436 @@
+Time 2: Elf Alex	Selected toy PC for girl.
+Time 2: Elf Alex	Wrapped toy PC in pink wrapping paper.
+Time 2: Elf Alex	Placed toy PC on sleigh.
+
+Time 4: Elf Alex	Selected toy Barbie for girl.
+Time 4: Elf Alex	Wrapped toy Barbie in pink wrapping paper.
+Time 4: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 5: Elf Alex	Selected toy Train for girl.
+Time 6: Elf Alex	Wrapped toy Train in silver wrapping paper.
+Time 6: Elf Alex	Placed toy Train on sleigh.
+
+Time 8: Elf Alex	Selected toy Dinosaur for girl.
+Time 9: Elf Alex	Wrapped toy Dinosaur in pink wrapping paper.
+Time 9: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 10: Elf Alex	Selected toy Guitar for boy.
+Time 11: Elf Alex	Wrapped toy Guitar in blue wrapping paper.
+Time 11: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 12: Elf Alex	Selected toy Drone for girl.
+Time 14: Elf Alex	Wrapped toy Drone in silver wrapping paper.
+Time 14: Elf Alex	Placed toy Drone on sleigh.
+
+Time 15: Elf Alex	Selected toy Guitar for boy.
+Time 15: Elf Alex	Wrapped toy Guitar in blue wrapping paper.
+Time 15: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 16: Elf Alex	Selected toy Drone for girl.
+Time 16: Elf Alex	Wrapped toy Drone in pink wrapping paper.
+Time 16: Elf Alex	Placed toy Drone on sleigh.
+
+Time 18: Elf Alex	Selected toy Guitar for boy.
+Time 20: Elf Alex	Wrapped toy Guitar in red wrapping paper.
+Time 20: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 21: Elf Alex	Selected toy Barbie for boy.
+Time 22: Elf Alex	Wrapped toy Barbie in red wrapping paper.
+Time 22: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 23: Elf Alex	Selected toy Barbie for girl.
+Time 24: Elf Alex	Wrapped toy Barbie in silver wrapping paper.
+Time 24: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 26: Elf Alex	Selected toy Tablet for boy.
+Time 27: Elf Alex	Wrapped toy Tablet in red wrapping paper.
+Time 27: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 28: Elf Alex	Selected toy Barbie for boy.
+Time 29: Elf Alex	Wrapped toy Barbie in red wrapping paper.
+Time 29: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 30: Elf Alex	Selected toy Train for boy.
+Time 32: Elf Alex	Wrapped toy Train in red wrapping paper.
+Time 32: Elf Alex	Placed toy Train on sleigh.
+
+Time 33: Elf Alex	Selected toy Barbie for boy.
+Time 33: Elf Alex	Wrapped toy Barbie in red wrapping paper.
+Time 33: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 34: Elf Alex	Selected toy Train for boy.
+Time 36: Elf Alex	Wrapped toy Train in blue wrapping paper.
+Time 36: Elf Alex	Placed toy Train on sleigh.
+
+Time 37: Elf Alex	Selected toy Puzzle for boy.
+Time 38: Elf Alex	Wrapped toy Puzzle in blue wrapping paper.
+Time 38: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 38: Elf Alex	Selected toy Drums for boy.
+Time 40: Elf Alex	Wrapped toy Drums in red wrapping paper.
+Time 40: Elf Alex	Placed toy Drums on sleigh.
+
+Time 40: Elf Alex	Selected toy Drone for boy.
+Time 41: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 41: Elf Alex	Placed toy Drone on sleigh.
+
+Time 41: Elf Alex	Selected toy Drums for girl.
+Time 43: Elf Alex	Wrapped toy Drums in pink wrapping paper.
+Time 43: Elf Alex	Placed toy Drums on sleigh.
+
+Time 44: Elf Alex	Selected toy Train for boy.
+Time 44: Elf Alex	Wrapped toy Train in blue wrapping paper.
+Time 44: Elf Alex	Placed toy Train on sleigh.
+
+Time 46: Elf Alex	Selected toy Drone for boy.
+Time 47: Elf Alex	Wrapped toy Drone in blue wrapping paper.
+Time 47: Elf Alex	Placed toy Drone on sleigh.
+
+Time 49: Elf Alex	Selected toy Drone for boy.
+Time 50: Elf Alex	Wrapped toy Drone in blue wrapping paper.
+Time 50: Elf Alex	Placed toy Drone on sleigh.
+
+Time 52: Elf Alex	Selected toy Guitar for girl.
+Time 52: Elf Alex	Wrapped toy Guitar in silver wrapping paper.
+Time 52: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 53: Elf Alex	Selected toy Barbie for girl.
+Time 53: Elf Alex	Wrapped toy Barbie in silver wrapping paper.
+Time 53: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 53: Elf Alex	Selected toy Puzzle for boy.
+Time 54: Elf Alex	Wrapped toy Puzzle in red wrapping paper.
+Time 54: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 55: Elf Alex	Selected toy Train for girl.
+Time 57: Elf Alex	Wrapped toy Train in silver wrapping paper.
+Time 57: Elf Alex	Placed toy Train on sleigh.
+
+Time 57: Elf Alex	Selected toy Barbie for girl.
+Time 57: Elf Alex	Wrapped toy Barbie in pink wrapping paper.
+Time 57: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 59: Elf Alex	Selected toy Tablet for girl.
+Time 60: Elf Alex	Wrapped toy Tablet in pink wrapping paper.
+Time 60: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 62: Elf Alex	Selected toy Barbie for girl.
+Time 64: Elf Alex	Wrapped toy Barbie in pink wrapping paper.
+Time 64: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 65: Elf Alex	Selected toy Drone for boy.
+Time 66: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 66: Elf Alex	Placed toy Drone on sleigh.
+
+Time 66: Elf Alex	Selected toy Puzzle for boy.
+Time 68: Elf Alex	Wrapped toy Puzzle in blue wrapping paper.
+Time 68: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 70: Elf Alex	Selected toy Dinosaur for girl.
+Time 70: Elf Alex	Wrapped toy Dinosaur in silver wrapping paper.
+Time 70: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 71: Elf Alex	Selected toy Puzzle for girl.
+Time 72: Elf Alex	Wrapped toy Puzzle in silver wrapping paper.
+Time 72: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 72: Elf Alex	Selected toy Puzzle for girl.
+Time 73: Elf Alex	Wrapped toy Puzzle in pink wrapping paper.
+Time 73: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 73: Elf Alex	Selected toy Barbie for boy.
+Time 74: Elf Alex	Wrapped toy Barbie in red wrapping paper.
+Time 74: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 75: Elf Alex	Selected toy PC for boy.
+Time 77: Elf Alex	Wrapped toy PC in red wrapping paper.
+Time 77: Elf Alex	Placed toy PC on sleigh.
+
+Time 78: Elf Alex	Selected toy Tablet for girl.
+Time 79: Elf Alex	Wrapped toy Tablet in pink wrapping paper.
+Time 79: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 81: Elf Alex	Selected toy Guitar for girl.
+Time 82: Elf Alex	Wrapped toy Guitar in silver wrapping paper.
+Time 82: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 82: Elf Alex	Selected toy Doll for boy.
+Time 83: Elf Alex	Wrapped toy Doll in blue wrapping paper.
+Time 91: Elf Alex	Placed toy Doll on sleigh.
+
+Time 93: Elf Alex	Selected toy Drone for boy.
+Time 94: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 94: Elf Alex	Placed toy Drone on sleigh.
+
+Time 94: Elf Alex	Selected toy Puzzle for girl.
+Time 95: Elf Alex	Wrapped toy Puzzle in silver wrapping paper.
+Time 95: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 97: Elf Alex	Selected toy PC for boy.
+Time 99: Elf Alex	Wrapped toy PC in red wrapping paper.
+Time 110: Elf Alex	Placed toy PC on sleigh.
+
+Time 111: Elf Alex	Selected toy Dinosaur for girl.
+Time 112: Elf Alex	Wrapped toy Dinosaur in silver wrapping paper.
+Time 112: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 112: Elf Alex	Selected toy Drums for boy.
+Time 113: Elf Alex	Wrapped toy Drums in red wrapping paper.
+Time 113: Elf Alex	Placed toy Drums on sleigh.
+
+Time 114: Elf Alex	Selected toy Drone for boy.
+Time 114: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 122: Elf Alex	Placed toy Drone on sleigh.
+
+Time 122: Elf Alex	Selected toy Tablet for girl.
+Time 122: Elf Alex	Wrapped toy Tablet in silver wrapping paper.
+Time 122: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 123: Elf Alex	Selected toy Tablet for girl.
+Time 124: Elf Alex	Wrapped toy Tablet in silver wrapping paper.
+Time 124: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 125: Elf Alex	Selected toy PC for boy.
+Time 126: Elf Alex	Wrapped toy PC in red wrapping paper.
+Time 127: Elf Alex	Placed toy PC on sleigh.
+
+Time 128: Elf Alex	Selected toy Car for boy.
+Time 130: Elf Alex	Wrapped toy Car in red wrapping paper.
+Time 146: Elf Alex	Placed toy Car on sleigh.
+
+Time 147: Elf Alex	Selected toy Dinosaur for girl.
+Time 147: Elf Alex	Wrapped toy Dinosaur in pink wrapping paper.
+Time 147: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 149: Elf Alex	Selected toy Car for boy.
+Time 150: Elf Alex	Wrapped toy Car in red wrapping paper.
+Time 157: Elf Alex	Placed toy Car on sleigh.
+
+Time 158: Elf Alex	Selected toy Car for boy.
+Time 158: Elf Alex	Wrapped toy Car in red wrapping paper.
+Time 158: Elf Alex	Placed toy Car on sleigh.
+
+Time 159: Elf Alex	Selected toy Drums for boy.
+Time 160: Elf Alex	Wrapped toy Drums in blue wrapping paper.
+Time 160: Elf Alex	Placed toy Drums on sleigh.
+
+Time 161: Elf Alex	Selected toy PC for boy.
+Time 162: Elf Alex	Wrapped toy PC in blue wrapping paper.
+Time 162: Elf Alex	Placed toy PC on sleigh.
+
+Time 163: Elf Alex	Selected toy Train for girl.
+Time 164: Elf Alex	Wrapped toy Train in silver wrapping paper.
+Time 164: Elf Alex	Placed toy Train on sleigh.
+
+Time 165: Elf Alex	Selected toy Drums for boy.
+Time 167: Elf Alex	Wrapped toy Drums in blue wrapping paper.
+Time 174: Elf Alex	Placed toy Drums on sleigh.
+
+Time 174: Elf Alex	Selected toy PC for boy.
+Time 175: Elf Alex	Wrapped toy PC in blue wrapping paper.
+Time 175: Elf Alex	Placed toy PC on sleigh.
+
+Time 176: Elf Alex	Selected toy Dinosaur for boy.
+Time 178: Elf Alex	Wrapped toy Dinosaur in red wrapping paper.
+Time 190: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 191: Elf Alex	Selected toy Drone for girl.
+Time 192: Elf Alex	Wrapped toy Drone in pink wrapping paper.
+Time 192: Elf Alex	Placed toy Drone on sleigh.
+
+Time 193: Elf Alex	Selected toy Train for girl.
+Time 195: Elf Alex	Wrapped toy Train in pink wrapping paper.
+Time 195: Elf Alex	Placed toy Train on sleigh.
+
+Time 196: Elf Alex	Selected toy Barbie for girl.
+Time 196: Elf Alex	Wrapped toy Barbie in silver wrapping paper.
+Time 196: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 198: Elf Alex	Selected toy PC for boy.
+Time 199: Elf Alex	Wrapped toy PC in red wrapping paper.
+Time 212: Elf Alex	Placed toy PC on sleigh.
+
+Time 212: Elf Alex	Selected toy Doll for girl.
+Time 213: Elf Alex	Wrapped toy Doll in silver wrapping paper.
+Time 213: Elf Alex	Placed toy Doll on sleigh.
+
+Time 214: Elf Alex	Selected toy PC for girl.
+Time 214: Elf Alex	Wrapped toy PC in pink wrapping paper.
+Time 214: Elf Alex	Placed toy PC on sleigh.
+
+Time 216: Elf Alex	Selected toy Dinosaur for boy.
+Time 218: Elf Alex	Wrapped toy Dinosaur in red wrapping paper.
+Time 221: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 221: Elf Alex	Selected toy Doll for boy.
+Time 223: Elf Alex	Wrapped toy Doll in blue wrapping paper.
+Time 223: Elf Alex	Placed toy Doll on sleigh.
+
+Time 225: Elf Alex	Selected toy Drone for boy.
+Time 226: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 233: Elf Alex	Placed toy Drone on sleigh.
+
+Time 233: Elf Alex	Selected toy Puzzle for girl.
+Time 234: Elf Alex	Wrapped toy Puzzle in pink wrapping paper.
+Time 234: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 236: Elf Alex	Selected toy Barbie for girl.
+Time 237: Elf Alex	Wrapped toy Barbie in pink wrapping paper.
+Time 245: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 245: Elf Alex	Selected toy Barbie for girl.
+Time 247: Elf Alex	Wrapped toy Barbie in pink wrapping paper.
+Time 247: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 248: Elf Alex	Selected toy Train for girl.
+Time 249: Elf Alex	Wrapped toy Train in silver wrapping paper.
+Time 250: Elf Alex	Placed toy Train on sleigh.
+
+Time 250: Elf Alex	Selected toy Drums for girl.
+Time 252: Elf Alex	Wrapped toy Drums in pink wrapping paper.
+Time 252: Elf Alex	Placed toy Drums on sleigh.
+
+Time 254: Elf Alex	Selected toy Drone for boy.
+Time 255: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 266: Elf Alex	Placed toy Drone on sleigh.
+
+Time 266: Elf Alex	Selected toy Barbie for boy.
+Time 267: Elf Alex	Wrapped toy Barbie in blue wrapping paper.
+Time 267: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 267: Elf Alex	Selected toy Car for boy.
+Time 267: Elf Alex	Wrapped toy Car in blue wrapping paper.
+Time 267: Elf Alex	Placed toy Car on sleigh.
+
+Time 268: Elf Alex	Selected toy Puzzle for girl.
+Time 269: Elf Alex	Wrapped toy Puzzle in pink wrapping paper.
+Time 274: Elf Alex	Placed toy Puzzle on sleigh.
+
+Time 275: Elf Alex	Selected toy PC for boy.
+Time 276: Elf Alex	Wrapped toy PC in red wrapping paper.
+Time 276: Elf Alex	Placed toy PC on sleigh.
+
+Time 277: Elf Alex	Selected toy PC for girl.
+Time 278: Elf Alex	Wrapped toy PC in pink wrapping paper.
+Time 284: Elf Alex	Placed toy PC on sleigh.
+
+Time 284: Elf Alex	Selected toy PC for boy.
+Time 285: Elf Alex	Wrapped toy PC in blue wrapping paper.
+Time 285: Elf Alex	Placed toy PC on sleigh.
+
+Time 285: Elf Alex	Selected toy Tablet for girl.
+Time 287: Elf Alex	Wrapped toy Tablet in pink wrapping paper.
+Time 300: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 301: Elf Alex	Selected toy Car for girl.
+Time 302: Elf Alex	Wrapped toy Car in pink wrapping paper.
+Time 302: Elf Alex	Placed toy Car on sleigh.
+
+Time 303: Elf Alex	Selected toy Guitar for boy.
+Time 304: Elf Alex	Wrapped toy Guitar in red wrapping paper.
+Time 312: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 313: Elf Alex	Selected toy Doll for boy.
+Time 315: Elf Alex	Wrapped toy Doll in blue wrapping paper.
+Time 317: Elf Alex	Placed toy Doll on sleigh.
+
+Time 318: Elf Alex	Selected toy Train for boy.
+Time 318: Elf Alex	Wrapped toy Train in red wrapping paper.
+Time 318: Elf Alex	Placed toy Train on sleigh.
+
+Time 320: Elf Alex	Selected toy Train for girl.
+Time 322: Elf Alex	Wrapped toy Train in pink wrapping paper.
+Time 330: Elf Alex	Placed toy Train on sleigh.
+
+Time 331: Elf Alex	Selected toy Drone for girl.
+Time 333: Elf Alex	Wrapped toy Drone in pink wrapping paper.
+Time 333: Elf Alex	Placed toy Drone on sleigh.
+
+Time 334: Elf Alex	Selected toy Drums for girl.
+Time 336: Elf Alex	Wrapped toy Drums in silver wrapping paper.
+Time 345: Elf Alex	Placed toy Drums on sleigh.
+
+Time 347: Elf Alex	Selected toy Tablet for girl.
+Time 349: Elf Alex	Wrapped toy Tablet in pink wrapping paper.
+Time 349: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 350: Elf Alex	Selected toy PC for boy.
+Time 351: Elf Alex	Wrapped toy PC in blue wrapping paper.
+Time 351: Elf Alex	Placed toy PC on sleigh.
+
+Time 352: Elf Alex	Selected toy Car for girl.
+Time 354: Elf Alex	Wrapped toy Car in silver wrapping paper.
+Time 368: Elf Alex	Placed toy Car on sleigh.
+
+Time 370: Elf Alex	Selected toy Drone for girl.
+Time 371: Elf Alex	Wrapped toy Drone in silver wrapping paper.
+Time 381: Elf Alex	Placed toy Drone on sleigh.
+
+Time 383: Elf Alex	Selected toy Drone for boy.
+Time 384: Elf Alex	Wrapped toy Drone in red wrapping paper.
+Time 384: Elf Alex	Placed toy Drone on sleigh.
+
+Time 384: Elf Alex	Selected toy Dinosaur for boy.
+Time 386: Elf Alex	Wrapped toy Dinosaur in red wrapping paper.
+Time 389: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 390: Elf Alex	Selected toy Guitar for girl.
+Time 391: Elf Alex	Wrapped toy Guitar in silver wrapping paper.
+Time 391: Elf Alex	Placed toy Guitar on sleigh.
+
+Time 393: Elf Alex	Selected toy Train for girl.
+Time 394: Elf Alex	Wrapped toy Train in silver wrapping paper.
+Time 402: Elf Alex	Placed toy Train on sleigh.
+
+Time 403: Elf Alex	Selected toy Train for boy.
+Time 404: Elf Alex	Wrapped toy Train in red wrapping paper.
+Time 404: Elf Alex	Placed toy Train on sleigh.
+
+Time 405: Elf Alex	Selected toy Barbie for boy.
+Time 406: Elf Alex	Wrapped toy Barbie in red wrapping paper.
+Time 411: Elf Alex	Placed toy Barbie on sleigh.
+
+Time 413: Elf Alex	Selected toy Car for girl.
+Time 414: Elf Alex	Wrapped toy Car in silver wrapping paper.
+Time 414: Elf Alex	Placed toy Car on sleigh.
+
+Time 414: Elf Alex	Selected toy Tablet for girl.
+Time 415: Elf Alex	Wrapped toy Tablet in silver wrapping paper.
+Time 423: Elf Alex	Placed toy Tablet on sleigh.
+
+Time 423: Elf Alex	Selected toy Drone for girl.
+Time 423: Elf Alex	Wrapped toy Drone in silver wrapping paper.
+Time 423: Elf Alex	Placed toy Drone on sleigh.
+
+Time 423: Elf Alex	Selected toy Dinosaur for boy.
+Time 425: Elf Alex	Wrapped toy Dinosaur in red wrapping paper.
+Time 425: Elf Alex	Placed toy Dinosaur on sleigh.
+
+Time 426: Elf Alex	Selected toy PC for boy.
+Time 426: Elf Alex	Wrapped toy PC in red wrapping paper.
+Time 434: Elf Alex	Placed toy PC on sleigh.
+
+Time 434: Elf Alex	Selected toy Train for girl.
+Time 435: Elf Alex	Wrapped toy Train in pink wrapping paper.
+Time 435: Elf Alex	Placed toy Train on sleigh.
+
+Time 436: Elf Alex	Selected toy Train for boy.
+Time 437: Elf Alex	Wrapped toy Train in red wrapping paper.
+Time 446: Elf Alex	Placed toy Train on sleigh.
+
+Time 447: Elf Alex	Selected toy Drums for boy.
+Time 449: Elf Alex	Wrapped toy Drums in red wrapping paper.
+Time 454: Elf Alex	Placed toy Drums on sleigh.
+
+Time 456: Elf Alex	Selected toy Train for girl.
+Time 456: Elf Alex	Wrapped toy Train in pink wrapping paper.
+Time 456: Elf Alex	Placed toy Train on sleigh.
+
+Time 457: Elf Alex	Selected toy Train for girl.
+Time 458: Elf Alex	Wrapped toy Train in pink wrapping paper.
+Time 473: Elf Alex	Placed toy Train on sleigh.
+
+Time 474: Elf Alex	Selected toy PC for girl.
+Time 476: Elf Alex	Wrapped toy PC in silver wrapping paper.
+Time 480: Elf Alex	Placed toy PC on sleigh.
+

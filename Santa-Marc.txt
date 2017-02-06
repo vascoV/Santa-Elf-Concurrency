@@ -1,0 +1,600 @@
+Time 2: Santa Marc	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+
+Time 3: Santa Marc	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+
+Time 4: Santa Marc	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+
+Time 4: Santa Marc	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+
+Time 6: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 6: Santa Marc	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+
+Time 10: Santa Marc	Walked back to his own allocated department.
+
+Time 14: Santa Marc	Gives Toy Gift PC	wrapped in pink wrapping paper.
+
+Time 18: Santa Marc	Gives Toy Gift Drums	wrapped in blue wrapping paper.
+
+Time 21: Santa Marc	Gives Toy Gift Train	wrapped in blue wrapping paper.
+
+Time 24: Santa Marc	Gives Toy Gift Train	wrapped in silver wrapping paper.
+
+Time 27: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper.
+
+Time 30: Santa Marc	Gives Toy Gift Train	wrapped in silver wrapping paper.
+
+Time 34: Santa Marc	Walked back to the Toy Store.
+
+Time 34: Santa Marc	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Guitar	wrapped in blue wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+
+Time 34: Santa Marc	Took toy Gift Tablet	wrapped in silver wrapping paper from sleigh.
+
+Time 37: Santa Marc	Walked back to his own allocated department.
+
+Time 41: Santa Marc	Gives Toy Gift Barbie	wrapped in red wrapping paper.
+
+Time 43: Santa Marc	Gives Toy Gift PC	wrapped in blue wrapping paper.
+
+Time 47: Santa Marc	Gives Toy Gift Guitar	wrapped in pink wrapping paper.
+
+Time 50: Santa Marc	Gives Toy Gift Train	wrapped in red wrapping paper.
+
+Time 53: Santa Marc	Gives Toy Gift Train	wrapped in red wrapping paper.
+
+Time 57: Santa Marc	Gives Toy Gift Guitar	wrapped in blue wrapping paper.
+
+Time 59: Santa Marc	Gives Toy Gift Car	wrapped in red wrapping paper.
+
+Time 63: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper.
+
+Time 66: Santa Marc	Gives Toy Gift Drums	wrapped in red wrapping paper.
+
+Time 69: Santa Marc	Gives Toy Gift Tablet	wrapped in silver wrapping paper.
+
+Time 73: Santa Marc	Walked back to the Toy Store.
+
+Time 73: Santa Marc	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+
+Time 73: Santa Marc	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+
+Time 77: Santa Marc	Walked back to his own allocated department.
+
+Time 78: Santa Marc	Gives Toy Gift Puzzle	wrapped in pink wrapping paper.
+
+Time 82: Santa Marc	Gives Toy Gift Puzzle	wrapped in silver wrapping paper.
+
+Time 86: Santa Marc	Gives Toy Gift Guitar	wrapped in red wrapping paper.
+
+Time 89: Santa Marc	Gives Toy Gift Drone	wrapped in silver wrapping paper.
+
+Time 91: Santa Marc	Gives Toy Gift PC	wrapped in silver wrapping paper.
+
+Time 94: Santa Marc	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper.
+
+Time 98: Santa Marc	Gives Toy Gift Doll	wrapped in red wrapping paper.
+
+Time 102: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper.
+
+Time 103: Santa Marc	Gives Toy Gift Guitar	wrapped in silver wrapping paper.
+
+Time 107: Santa Marc	Gives Toy Gift Car	wrapped in blue wrapping paper.
+
+Time 110: Santa Marc	Walked back to the Toy Store.
+
+Time 110: Santa Marc	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+
+Time 110: Santa Marc	Took toy Gift PC	wrapped in red wrapping paper from sleigh.
+
+Time 113: Santa Marc	Walked back to his own allocated department.
+
+Time 117: Santa Marc	Gives Toy Gift Puzzle	wrapped in red wrapping paper.
+
+Time 120: Santa Marc	Gives Toy Gift Drums	wrapped in pink wrapping paper.
+
+Time 124: Santa Marc	Gives Toy Gift Doll	wrapped in pink wrapping paper.
+
+Time 126: Santa Marc	Gives Toy Gift Tablet	wrapped in pink wrapping paper.
+
+Time 129: Santa Marc	Gives Toy Gift Doll	wrapped in silver wrapping paper.
+
+Time 133: Santa Marc	Gives Toy Gift Train	wrapped in blue wrapping paper.
+
+Time 134: Santa Marc	Gives Toy Gift Puzzle	wrapped in red wrapping paper.
+
+Time 136: Santa Marc	Gives Toy Gift Guitar	wrapped in pink wrapping paper.
+
+Time 140: Santa Marc	Gives Toy Gift Dinosaur	wrapped in red wrapping paper.
+
+Time 143: Santa Marc	Gives Toy Gift PC	wrapped in red wrapping paper.
+
+Time 146: Santa Marc	Walked back to the Toy Store.
+
+Time 146: Santa Marc	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+
+Time 146: Santa Marc	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+
+Time 148: Santa Marc	Walked back to his own allocated department.
+
+Time 151: Santa Marc	Gives Toy Gift Puzzle	wrapped in pink wrapping paper.
+
+Time 153: Santa Marc	Gives Toy Gift Dinosaur	wrapped in red wrapping paper.
+
+Time 154: Santa Marc	Gives Toy Gift Puzzle	wrapped in pink wrapping paper.
+
+Time 158: Santa Marc	Gives Toy Gift Train	wrapped in blue wrapping paper.
+
+Time 160: Santa Marc	Gives Toy Gift Barbie	wrapped in red wrapping paper.
+
+Time 162: Santa Marc	Gives Toy Gift Doll	wrapped in pink wrapping paper.
+
+Time 164: Santa Marc	Gives Toy Gift Train	wrapped in red wrapping paper.
+
+Time 167: Santa Marc	Gives Toy Gift Doll	wrapped in blue wrapping paper.
+
+Time 170: Santa Marc	Gives Toy Gift PC	wrapped in silver wrapping paper.
+
+Time 172: Santa Marc	Gives Toy Gift Tablet	wrapped in blue wrapping paper.
+
+Time 174: Santa Marc	Walked back to the Toy Store.
+
+Time 174: Santa Marc	Took toy Gift Drums	wrapped in pink wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Guitar	wrapped in pink wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+
+Time 174: Santa Marc	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+
+Time 176: Santa Marc	Walked back to his own allocated department.
+
+Time 180: Santa Marc	Gives Toy Gift Drums	wrapped in pink wrapping paper.
+
+Time 184: Santa Marc	Gives Toy Gift Train	wrapped in silver wrapping paper.
+
+Time 188: Santa Marc	Gives Toy Gift Drums	wrapped in blue wrapping paper.
+
+Time 191: Santa Marc	Gives Toy Gift Doll	wrapped in blue wrapping paper.
+
+Time 194: Santa Marc	Gives Toy Gift PC	wrapped in blue wrapping paper.
+
+Time 197: Santa Marc	Gives Toy Gift Barbie	wrapped in silver wrapping paper.
+
+Time 200: Santa Marc	Gives Toy Gift Car	wrapped in blue wrapping paper.
+
+Time 203: Santa Marc	Gives Toy Gift Guitar	wrapped in pink wrapping paper.
+
+Time 205: Santa Marc	Gives Toy Gift Guitar	wrapped in red wrapping paper.
+
+Time 209: Santa Marc	Gives Toy Gift Drums	wrapped in blue wrapping paper.
+
+Time 212: Santa Marc	Walked back to the Toy Store.
+
+Time 212: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Barbie	wrapped in silver wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+
+Time 212: Santa Marc	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+
+Time 215: Santa Marc	Walked back to his own allocated department.
+
+Time 218: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 220: Santa Marc	Gives Toy Gift Car	wrapped in pink wrapping paper.
+
+Time 223: Santa Marc	Gives Toy Gift Tablet	wrapped in blue wrapping paper.
+
+Time 224: Santa Marc	Gives Toy Gift Doll	wrapped in silver wrapping paper.
+
+Time 227: Santa Marc	Gives Toy Gift Barbie	wrapped in silver wrapping paper.
+
+Time 229: Santa Marc	Gives Toy Gift Guitar	wrapped in silver wrapping paper.
+
+Time 233: Santa Marc	Gives Toy Gift Train	wrapped in pink wrapping paper.
+
+Time 236: Santa Marc	Gives Toy Gift PC	wrapped in blue wrapping paper.
+
+Time 240: Santa Marc	Gives Toy Gift Guitar	wrapped in red wrapping paper.
+
+Time 243: Santa Marc	Gives Toy Gift Puzzle	wrapped in silver wrapping paper.
+
+Time 245: Santa Marc	Walked back to the Toy Store.
+
+Time 245: Santa Marc	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Doll	wrapped in silver wrapping paper from sleigh.
+
+Time 245: Santa Marc	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+
+Time 248: Santa Marc	Walked back to his own allocated department.
+
+Time 251: Santa Marc	Gives Toy Gift Guitar	wrapped in silver wrapping paper.
+
+Time 255: Santa Marc	Gives Toy Gift Train	wrapped in red wrapping paper.
+
+Time 257: Santa Marc	Gives Toy Gift Guitar	wrapped in silver wrapping paper.
+
+Time 258: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 260: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 262: Santa Marc	Gives Toy Gift Puzzle	wrapped in pink wrapping paper.
+
+Time 264: Santa Marc	Gives Toy Gift Car	wrapped in silver wrapping paper.
+
+Time 266: Santa Marc	Gives Toy Gift Doll	wrapped in red wrapping paper.
+
+Time 267: Santa Marc	Gives Toy Gift Doll	wrapped in silver wrapping paper.
+
+Time 271: Santa Marc	Gives Toy Gift Drone	wrapped in silver wrapping paper.
+
+Time 274: Santa Marc	Walked back to the Toy Store.
+
+Time 274: Santa Marc	Took toy Gift Puzzle	wrapped in silver wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Car	wrapped in blue wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Barbie	wrapped in blue wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Dinosaur	wrapped in red wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Drone	wrapped in blue wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Puzzle	wrapped in pink wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Doll	wrapped in pink wrapping paper from sleigh.
+
+Time 274: Santa Marc	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+
+Time 278: Santa Marc	Walked back to his own allocated department.
+
+Time 281: Santa Marc	Gives Toy Gift Puzzle	wrapped in silver wrapping paper.
+
+Time 285: Santa Marc	Gives Toy Gift Car	wrapped in blue wrapping paper.
+
+Time 288: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper.
+
+Time 291: Santa Marc	Gives Toy Gift Barbie	wrapped in blue wrapping paper.
+
+Time 294: Santa Marc	Gives Toy Gift Dinosaur	wrapped in red wrapping paper.
+
+Time 297: Santa Marc	Gives Toy Gift Drone	wrapped in blue wrapping paper.
+
+Time 299: Santa Marc	Gives Toy Gift Tablet	wrapped in pink wrapping paper.
+
+Time 302: Santa Marc	Gives Toy Gift Puzzle	wrapped in pink wrapping paper.
+
+Time 306: Santa Marc	Gives Toy Gift Doll	wrapped in pink wrapping paper.
+
+Time 308: Santa Marc	Gives Toy Gift Drums	wrapped in blue wrapping paper.
+
+Time 312: Santa Marc	Walked back to the Toy Store.
+
+Time 312: Santa Marc	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift PC	wrapped in blue wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Drone	wrapped in red wrapping paper from sleigh.
+
+Time 312: Santa Marc	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+
+Time 315: Santa Marc	Walked back to his own allocated department.
+
+Time 316: Santa Marc	Gives Toy Gift Guitar	wrapped in silver wrapping paper.
+
+Time 318: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper.
+
+Time 322: Santa Marc	Gives Toy Gift Car	wrapped in pink wrapping paper.
+
+Time 325: Santa Marc	Gives Toy Gift Barbie	wrapped in red wrapping paper.
+
+Time 328: Santa Marc	Gives Toy Gift Barbie	wrapped in red wrapping paper.
+
+Time 331: Santa Marc	Gives Toy Gift PC	wrapped in blue wrapping paper.
+
+Time 333: Santa Marc	Gives Toy Gift Guitar	wrapped in red wrapping paper.
+
+Time 336: Santa Marc	Gives Toy Gift Tablet	wrapped in pink wrapping paper.
+
+Time 339: Santa Marc	Gives Toy Gift Drone	wrapped in red wrapping paper.
+
+Time 343: Santa Marc	Gives Toy Gift Train	wrapped in silver wrapping paper.
+
+Time 345: Santa Marc	Walked back to the Toy Store.
+
+Time 345: Santa Marc	Took toy Gift Puzzle	wrapped in red wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Dinosaur	wrapped in silver wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+
+Time 345: Santa Marc	Took toy Gift PC	wrapped in pink wrapping paper from sleigh.
+
+Time 349: Santa Marc	Walked back to his own allocated department.
+
+Time 350: Santa Marc	Gives Toy Gift Puzzle	wrapped in red wrapping paper.
+
+Time 353: Santa Marc	Gives Toy Gift Car	wrapped in silver wrapping paper.
+
+Time 355: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper.
+
+Time 359: Santa Marc	Gives Toy Gift Tablet	wrapped in red wrapping paper.
+
+Time 362: Santa Marc	Gives Toy Gift Dinosaur	wrapped in silver wrapping paper.
+
+Time 365: Santa Marc	Gives Toy Gift Drums	wrapped in red wrapping paper.
+
+Time 368: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 371: Santa Marc	Gives Toy Gift Tablet	wrapped in pink wrapping paper.
+
+Time 375: Santa Marc	Gives Toy Gift Car	wrapped in red wrapping paper.
+
+Time 378: Santa Marc	Gives Toy Gift PC	wrapped in pink wrapping paper.
+
+Time 381: Santa Marc	Walked back to the Toy Store.
+
+Time 381: Santa Marc	Took toy Gift Drums	wrapped in blue wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift PC	wrapped in silver wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Guitar	wrapped in red wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Drone	wrapped in silver wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Car	wrapped in red wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 381: Santa Marc	Took toy Gift Drums	wrapped in silver wrapping paper from sleigh.
+
+Time 383: Santa Marc	Walked back to his own allocated department.
+
+Time 385: Santa Marc	Gives Toy Gift Drums	wrapped in blue wrapping paper.
+
+Time 387: Santa Marc	Gives Toy Gift PC	wrapped in silver wrapping paper.
+
+Time 388: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 392: Santa Marc	Gives Toy Gift Doll	wrapped in blue wrapping paper.
+
+Time 394: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper.
+
+Time 397: Santa Marc	Gives Toy Gift Guitar	wrapped in red wrapping paper.
+
+Time 400: Santa Marc	Gives Toy Gift Drone	wrapped in silver wrapping paper.
+
+Time 403: Santa Marc	Gives Toy Gift Car	wrapped in red wrapping paper.
+
+Time 406: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 408: Santa Marc	Gives Toy Gift Drums	wrapped in silver wrapping paper.
+
+Time 411: Santa Marc	Walked back to the Toy Store.
+
+Time 411: Santa Marc	Took toy Gift Tablet	wrapped in pink wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Car	wrapped in pink wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Train	wrapped in red wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Train	wrapped in blue wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Tablet	wrapped in red wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Train	wrapped in silver wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Car	wrapped in silver wrapping paper from sleigh.
+
+Time 411: Santa Marc	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+
+Time 413: Santa Marc	Walked back to his own allocated department.
+
+Time 415: Santa Marc	Gives Toy Gift Tablet	wrapped in pink wrapping paper.
+
+Time 418: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper.
+
+Time 420: Santa Marc	Gives Toy Gift Car	wrapped in pink wrapping paper.
+
+Time 423: Santa Marc	Gives Toy Gift Train	wrapped in red wrapping paper.
+
+Time 426: Santa Marc	Gives Toy Gift Train	wrapped in blue wrapping paper.
+
+Time 429: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper.
+
+Time 432: Santa Marc	Gives Toy Gift Tablet	wrapped in red wrapping paper.
+
+Time 434: Santa Marc	Gives Toy Gift Train	wrapped in silver wrapping paper.
+
+Time 438: Santa Marc	Gives Toy Gift Car	wrapped in silver wrapping paper.
+
+Time 442: Santa Marc	Gives Toy Gift Train	wrapped in pink wrapping paper.
+
+Time 446: Santa Marc	Walked back to the Toy Store.
+
+Time 446: Santa Marc	Took toy Gift Drone	wrapped in pink wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Barbie	wrapped in red wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Guitar	wrapped in silver wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Drums	wrapped in red wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Puzzle	wrapped in blue wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Doll	wrapped in red wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Train	wrapped in pink wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Barbie	wrapped in pink wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Doll	wrapped in blue wrapping paper from sleigh.
+
+Time 446: Santa Marc	Took toy Gift Tablet	wrapped in blue wrapping paper from sleigh.
+
+Time 447: Santa Marc	Walked back to his own allocated department.
+
+Time 451: Santa Marc	Gives Toy Gift Drone	wrapped in pink wrapping paper.
+
+Time 455: Santa Marc	Gives Toy Gift Barbie	wrapped in red wrapping paper.
+
+Time 458: Santa Marc	Gives Toy Gift Guitar	wrapped in silver wrapping paper.
+
+Time 461: Santa Marc	Gives Toy Gift Drums	wrapped in red wrapping paper.
+
+Time 465: Santa Marc	Gives Toy Gift Puzzle	wrapped in blue wrapping paper.
+
+Time 467: Santa Marc	Gives Toy Gift Doll	wrapped in red wrapping paper.
+
+Time 469: Santa Marc	Gives Toy Gift Train	wrapped in pink wrapping paper.
+
+Time 472: Santa Marc	Gives Toy Gift Barbie	wrapped in pink wrapping paper.
+
+Time 476: Santa Marc	Gives Toy Gift Doll	wrapped in blue wrapping paper.
+
+Time 479: Santa Marc	Gives Toy Gift Tablet	wrapped in blue wrapping paper.
+
+Time 480: Santa Marc	Walked back to the Toy Store.
+

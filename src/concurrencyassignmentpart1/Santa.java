@@ -140,4 +140,12 @@ public class Santa extends Thread {
         System.out.println(report);
         System.out.println();
     }
+
+    public int getToySantaCount() {
+        return toyCount;
+    }
+    
+    public int getSackSize(){
+        return sack.size();
+    }
 }

@@ -99,6 +99,7 @@ public class Santa_Elf_Concurrency {
         System.out.println("\n");
         System.out.println("Toys left into the sleigh at the end of the day: " + sleight.getCounter() + "\n");
         System.out.print("\n");
+        System.out.println("Stolen Gifts: " + (elf_1.getToyElfCount() + elf_2.getToyElfCount() + elf_3.getToyElfCount() + elf_4.getToyElfCount() + elf_5.getToyElfCount() - santa1.getToySantaCount() - santa2.getToySantaCount() - santa3.getToySantaCount() - sleight.getCounter() - santa1.getSackSize() - santa2.getSackSize() - santa3.getSackSize()) + "\n");
         System.out.println("End of the Working Day");
     }
 }

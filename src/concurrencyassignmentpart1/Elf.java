@@ -137,4 +137,10 @@ public class Elf extends Thread {
         System.out.println(report);
         System.out.println();
     }
+
+    public int getToyElfCount() {
+        return toyCount;
+    }
+    
+    
 }

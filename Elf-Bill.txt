@@ -1,0 +1,444 @@
+Time 1: Elf Bill	Selected toy Tablet for boy.
+Time 2: Elf Bill	Wrapped toy Tablet in blue wrapping paper.
+Time 2: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 4: Elf Bill	Selected toy Puzzle for boy.
+Time 6: Elf Bill	Wrapped toy Puzzle in blue wrapping paper.
+Time 6: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 7: Elf Bill	Selected toy Drums for girl.
+Time 8: Elf Bill	Wrapped toy Drums in silver wrapping paper.
+Time 8: Elf Bill	Placed toy Drums on sleigh.
+
+Time 10: Elf Bill	Selected toy Dinosaur for girl.
+Time 11: Elf Bill	Wrapped toy Dinosaur in pink wrapping paper.
+Time 11: Elf Bill	Placed toy Dinosaur on sleigh.
+
+Time 12: Elf Bill	Selected toy Doll for girl.
+Time 13: Elf Bill	Wrapped toy Doll in pink wrapping paper.
+Time 13: Elf Bill	Placed toy Doll on sleigh.
+
+Time 13: Elf Bill	Selected toy Puzzle for girl.
+Time 13: Elf Bill	Wrapped toy Puzzle in pink wrapping paper.
+Time 13: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 14: Elf Bill	Selected toy Drums for boy.
+Time 16: Elf Bill	Wrapped toy Drums in blue wrapping paper.
+Time 16: Elf Bill	Placed toy Drums on sleigh.
+
+Time 16: Elf Bill	Selected toy Guitar for girl.
+Time 17: Elf Bill	Wrapped toy Guitar in silver wrapping paper.
+Time 17: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 19: Elf Bill	Selected toy Tablet for girl.
+Time 19: Elf Bill	Wrapped toy Tablet in pink wrapping paper.
+Time 19: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 20: Elf Bill	Selected toy Barbie for girl.
+Time 21: Elf Bill	Wrapped toy Barbie in silver wrapping paper.
+Time 21: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 23: Elf Bill	Selected toy Drums for girl.
+Time 23: Elf Bill	Wrapped toy Drums in pink wrapping paper.
+Time 23: Elf Bill	Placed toy Drums on sleigh.
+
+Time 25: Elf Bill	Selected toy Puzzle for girl.
+Time 25: Elf Bill	Wrapped toy Puzzle in pink wrapping paper.
+Time 25: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 26: Elf Bill	Selected toy Drums for boy.
+Time 27: Elf Bill	Wrapped toy Drums in blue wrapping paper.
+Time 27: Elf Bill	Placed toy Drums on sleigh.
+
+Time 27: Elf Bill	Selected toy Puzzle for boy.
+Time 28: Elf Bill	Wrapped toy Puzzle in red wrapping paper.
+Time 28: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 30: Elf Bill	Selected toy Car for boy.
+Time 30: Elf Bill	Wrapped toy Car in red wrapping paper.
+Time 30: Elf Bill	Placed toy Car on sleigh.
+
+Time 32: Elf Bill	Selected toy PC for boy.
+Time 33: Elf Bill	Wrapped toy PC in blue wrapping paper.
+Time 33: Elf Bill	Placed toy PC on sleigh.
+
+Time 34: Elf Bill	Selected toy Barbie for girl.
+Time 35: Elf Bill	Wrapped toy Barbie in silver wrapping paper.
+Time 35: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 36: Elf Bill	Selected toy Tablet for boy.
+Time 36: Elf Bill	Wrapped toy Tablet in blue wrapping paper.
+Time 36: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 37: Elf Bill	Selected toy PC for boy.
+Time 38: Elf Bill	Wrapped toy PC in blue wrapping paper.
+Time 38: Elf Bill	Placed toy PC on sleigh.
+
+Time 38: Elf Bill	Selected toy Puzzle for girl.
+Time 38: Elf Bill	Wrapped toy Puzzle in silver wrapping paper.
+Time 38: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 38: Elf Bill	Selected toy PC for girl.
+Time 40: Elf Bill	Wrapped toy PC in pink wrapping paper.
+Time 40: Elf Bill	Placed toy PC on sleigh.
+
+Time 42: Elf Bill	Selected toy Guitar for girl.
+Time 42: Elf Bill	Wrapped toy Guitar in silver wrapping paper.
+Time 42: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 44: Elf Bill	Selected toy Drone for boy.
+Time 45: Elf Bill	Wrapped toy Drone in red wrapping paper.
+Time 45: Elf Bill	Placed toy Drone on sleigh.
+
+Time 47: Elf Bill	Selected toy Dinosaur for boy.
+Time 48: Elf Bill	Wrapped toy Dinosaur in blue wrapping paper.
+Time 48: Elf Bill	Placed toy Dinosaur on sleigh.
+
+Time 50: Elf Bill	Selected toy Tablet for boy.
+Time 52: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 52: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 53: Elf Bill	Selected toy Tablet for boy.
+Time 53: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 53: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 54: Elf Bill	Selected toy Tablet for boy.
+Time 55: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 55: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 57: Elf Bill	Selected toy Drums for girl.
+Time 57: Elf Bill	Wrapped toy Drums in silver wrapping paper.
+Time 57: Elf Bill	Placed toy Drums on sleigh.
+
+Time 59: Elf Bill	Selected toy Drone for boy.
+Time 60: Elf Bill	Wrapped toy Drone in blue wrapping paper.
+Time 60: Elf Bill	Placed toy Drone on sleigh.
+
+Time 61: Elf Bill	Selected toy Train for boy.
+Time 61: Elf Bill	Wrapped toy Train in red wrapping paper.
+Time 61: Elf Bill	Placed toy Train on sleigh.
+
+Time 62: Elf Bill	Selected toy Guitar for boy.
+Time 63: Elf Bill	Wrapped toy Guitar in red wrapping paper.
+Time 63: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 64: Elf Bill	Selected toy Barbie for boy.
+Time 65: Elf Bill	Wrapped toy Barbie in red wrapping paper.
+Time 65: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 67: Elf Bill	Selected toy Guitar for girl.
+Time 69: Elf Bill	Wrapped toy Guitar in silver wrapping paper.
+Time 69: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 70: Elf Bill	Selected toy Drone for girl.
+Time 72: Elf Bill	Wrapped toy Drone in silver wrapping paper.
+Time 72: Elf Bill	Placed toy Drone on sleigh.
+
+Time 72: Elf Bill	Selected toy PC for girl.
+Time 74: Elf Bill	Wrapped toy PC in pink wrapping paper.
+Time 74: Elf Bill	Placed toy PC on sleigh.
+
+Time 75: Elf Bill	Selected toy Drone for girl.
+Time 76: Elf Bill	Wrapped toy Drone in silver wrapping paper.
+Time 76: Elf Bill	Placed toy Drone on sleigh.
+
+Time 78: Elf Bill	Selected toy Drums for boy.
+Time 78: Elf Bill	Wrapped toy Drums in red wrapping paper.
+Time 78: Elf Bill	Placed toy Drums on sleigh.
+
+Time 79: Elf Bill	Selected toy Car for girl.
+Time 80: Elf Bill	Wrapped toy Car in pink wrapping paper.
+Time 80: Elf Bill	Placed toy Car on sleigh.
+
+Time 81: Elf Bill	Selected toy Guitar for boy.
+Time 82: Elf Bill	Wrapped toy Guitar in red wrapping paper.
+Time 82: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 84: Elf Bill	Selected toy Doll for boy.
+Time 86: Elf Bill	Wrapped toy Doll in blue wrapping paper.
+Time 91: Elf Bill	Placed toy Doll on sleigh.
+
+Time 93: Elf Bill	Selected toy Puzzle for boy.
+Time 93: Elf Bill	Wrapped toy Puzzle in red wrapping paper.
+Time 93: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 95: Elf Bill	Selected toy PC for girl.
+Time 96: Elf Bill	Wrapped toy PC in silver wrapping paper.
+Time 96: Elf Bill	Placed toy PC on sleigh.
+
+Time 96: Elf Bill	Selected toy Puzzle for boy.
+Time 96: Elf Bill	Wrapped toy Puzzle in red wrapping paper.
+Time 96: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 97: Elf Bill	Selected toy Dinosaur for boy.
+Time 99: Elf Bill	Wrapped toy Dinosaur in red wrapping paper.
+Time 110: Elf Bill	Placed toy Dinosaur on sleigh.
+
+Time 112: Elf Bill	Selected toy Tablet for girl.
+Time 113: Elf Bill	Wrapped toy Tablet in pink wrapping paper.
+Time 113: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 115: Elf Bill	Selected toy Car for boy.
+Time 117: Elf Bill	Wrapped toy Car in blue wrapping paper.
+Time 122: Elf Bill	Placed toy Car on sleigh.
+
+Time 123: Elf Bill	Selected toy Guitar for girl.
+Time 124: Elf Bill	Wrapped toy Guitar in silver wrapping paper.
+Time 124: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 125: Elf Bill	Selected toy Tablet for boy.
+Time 126: Elf Bill	Wrapped toy Tablet in blue wrapping paper.
+Time 127: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 128: Elf Bill	Selected toy Train for boy.
+Time 128: Elf Bill	Wrapped toy Train in blue wrapping paper.
+Time 128: Elf Bill	Placed toy Train on sleigh.
+
+Time 129: Elf Bill	Selected toy Barbie for boy.
+Time 131: Elf Bill	Wrapped toy Barbie in red wrapping paper.
+Time 146: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 147: Elf Bill	Selected toy PC for girl.
+Time 149: Elf Bill	Wrapped toy PC in pink wrapping paper.
+Time 157: Elf Bill	Placed toy PC on sleigh.
+
+Time 158: Elf Bill	Selected toy Tablet for girl.
+Time 159: Elf Bill	Wrapped toy Tablet in silver wrapping paper.
+Time 159: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 161: Elf Bill	Selected toy Guitar for girl.
+Time 161: Elf Bill	Wrapped toy Guitar in pink wrapping paper.
+Time 161: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 162: Elf Bill	Selected toy Drums for girl.
+Time 164: Elf Bill	Wrapped toy Drums in pink wrapping paper.
+Time 164: Elf Bill	Placed toy Drums on sleigh.
+
+Time 165: Elf Bill	Selected toy Car for boy.
+Time 166: Elf Bill	Wrapped toy Car in red wrapping paper.
+Time 174: Elf Bill	Placed toy Car on sleigh.
+
+Time 174: Elf Bill	Selected toy PC for girl.
+Time 176: Elf Bill	Wrapped toy PC in silver wrapping paper.
+Time 176: Elf Bill	Placed toy PC on sleigh.
+
+Time 176: Elf Bill	Selected toy Dinosaur for girl.
+Time 177: Elf Bill	Wrapped toy Dinosaur in pink wrapping paper.
+Time 177: Elf Bill	Placed toy Dinosaur on sleigh.
+
+Time 177: Elf Bill	Selected toy Drone for boy.
+Time 179: Elf Bill	Wrapped toy Drone in blue wrapping paper.
+Time 190: Elf Bill	Placed toy Drone on sleigh.
+
+Time 192: Elf Bill	Selected toy PC for girl.
+Time 193: Elf Bill	Wrapped toy PC in pink wrapping paper.
+Time 193: Elf Bill	Placed toy PC on sleigh.
+
+Time 193: Elf Bill	Selected toy PC for boy.
+Time 194: Elf Bill	Wrapped toy PC in blue wrapping paper.
+Time 194: Elf Bill	Placed toy PC on sleigh.
+
+Time 195: Elf Bill	Selected toy Car for girl.
+Time 197: Elf Bill	Wrapped toy Car in pink wrapping paper.
+Time 197: Elf Bill	Placed toy Car on sleigh.
+
+Time 199: Elf Bill	Selected toy Guitar for boy.
+Time 201: Elf Bill	Wrapped toy Guitar in red wrapping paper.
+Time 212: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 212: Elf Bill	Selected toy Drums for boy.
+Time 214: Elf Bill	Wrapped toy Drums in blue wrapping paper.
+Time 214: Elf Bill	Placed toy Drums on sleigh.
+
+Time 215: Elf Bill	Selected toy Guitar for girl.
+Time 216: Elf Bill	Wrapped toy Guitar in pink wrapping paper.
+Time 221: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 222: Elf Bill	Selected toy Tablet for boy.
+Time 223: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 223: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 225: Elf Bill	Selected toy PC for boy.
+Time 226: Elf Bill	Wrapped toy PC in blue wrapping paper.
+Time 233: Elf Bill	Placed toy PC on sleigh.
+
+Time 233: Elf Bill	Selected toy Car for girl.
+Time 233: Elf Bill	Wrapped toy Car in silver wrapping paper.
+Time 233: Elf Bill	Placed toy Car on sleigh.
+
+Time 235: Elf Bill	Selected toy Guitar for girl.
+Time 237: Elf Bill	Wrapped toy Guitar in silver wrapping paper.
+Time 245: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 247: Elf Bill	Selected toy Drone for girl.
+Time 248: Elf Bill	Wrapped toy Drone in pink wrapping paper.
+Time 248: Elf Bill	Placed toy Drone on sleigh.
+
+Time 250: Elf Bill	Selected toy Drone for boy.
+Time 251: Elf Bill	Wrapped toy Drone in blue wrapping paper.
+Time 251: Elf Bill	Placed toy Drone on sleigh.
+
+Time 252: Elf Bill	Selected toy PC for boy.
+Time 254: Elf Bill	Wrapped toy PC in red wrapping paper.
+Time 266: Elf Bill	Placed toy PC on sleigh.
+
+Time 266: Elf Bill	Selected toy Puzzle for boy.
+Time 267: Elf Bill	Wrapped toy Puzzle in blue wrapping paper.
+Time 267: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 268: Elf Bill	Selected toy Guitar for girl.
+Time 270: Elf Bill	Wrapped toy Guitar in pink wrapping paper.
+Time 274: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 276: Elf Bill	Selected toy Train for girl.
+Time 276: Elf Bill	Wrapped toy Train in silver wrapping paper.
+Time 276: Elf Bill	Placed toy Train on sleigh.
+
+Time 277: Elf Bill	Selected toy Guitar for girl.
+Time 278: Elf Bill	Wrapped toy Guitar in pink wrapping paper.
+Time 284: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 284: Elf Bill	Selected toy Drums for girl.
+Time 285: Elf Bill	Wrapped toy Drums in pink wrapping paper.
+Time 285: Elf Bill	Placed toy Drums on sleigh.
+
+Time 286: Elf Bill	Selected toy Drone for boy.
+Time 287: Elf Bill	Wrapped toy Drone in red wrapping paper.
+Time 300: Elf Bill	Placed toy Drone on sleigh.
+
+Time 301: Elf Bill	Selected toy Puzzle for boy.
+Time 302: Elf Bill	Wrapped toy Puzzle in blue wrapping paper.
+Time 302: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 304: Elf Bill	Selected toy Guitar for girl.
+Time 304: Elf Bill	Wrapped toy Guitar in silver wrapping paper.
+Time 312: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 313: Elf Bill	Selected toy Dinosaur for girl.
+Time 313: Elf Bill	Wrapped toy Dinosaur in pink wrapping paper.
+Time 313: Elf Bill	Placed toy Dinosaur on sleigh.
+
+Time 313: Elf Bill	Selected toy Barbie for girl.
+Time 315: Elf Bill	Wrapped toy Barbie in pink wrapping paper.
+Time 317: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 318: Elf Bill	Selected toy Car for boy.
+Time 319: Elf Bill	Wrapped toy Car in red wrapping paper.
+Time 319: Elf Bill	Placed toy Car on sleigh.
+
+Time 320: Elf Bill	Selected toy Train for boy.
+Time 321: Elf Bill	Wrapped toy Train in blue wrapping paper.
+Time 330: Elf Bill	Placed toy Train on sleigh.
+
+Time 332: Elf Bill	Selected toy Puzzle for boy.
+Time 333: Elf Bill	Wrapped toy Puzzle in red wrapping paper.
+Time 333: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 335: Elf Bill	Selected toy Barbie for girl.
+Time 335: Elf Bill	Wrapped toy Barbie in pink wrapping paper.
+Time 345: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 347: Elf Bill	Selected toy Barbie for girl.
+Time 349: Elf Bill	Wrapped toy Barbie in silver wrapping paper.
+Time 349: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 350: Elf Bill	Selected toy Drums for boy.
+Time 351: Elf Bill	Wrapped toy Drums in red wrapping paper.
+Time 351: Elf Bill	Placed toy Drums on sleigh.
+
+Time 351: Elf Bill	Selected toy Dinosaur for girl.
+Time 352: Elf Bill	Wrapped toy Dinosaur in silver wrapping paper.
+Time 352: Elf Bill	Placed toy Dinosaur on sleigh.
+
+Time 353: Elf Bill	Selected toy PC for boy.
+Time 354: Elf Bill	Wrapped toy PC in blue wrapping paper.
+Time 368: Elf Bill	Placed toy PC on sleigh.
+
+Time 369: Elf Bill	Selected toy Drone for girl.
+Time 369: Elf Bill	Wrapped toy Drone in pink wrapping paper.
+Time 369: Elf Bill	Placed toy Drone on sleigh.
+
+Time 371: Elf Bill	Selected toy Tablet for boy.
+Time 373: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 381: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 383: Elf Bill	Selected toy Train for boy.
+Time 384: Elf Bill	Wrapped toy Train in blue wrapping paper.
+Time 384: Elf Bill	Placed toy Train on sleigh.
+
+Time 385: Elf Bill	Selected toy Train for girl.
+Time 387: Elf Bill	Wrapped toy Train in pink wrapping paper.
+Time 389: Elf Bill	Placed toy Train on sleigh.
+
+Time 390: Elf Bill	Selected toy Barbie for girl.
+Time 390: Elf Bill	Wrapped toy Barbie in pink wrapping paper.
+Time 390: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 391: Elf Bill	Selected toy Car for boy.
+Time 391: Elf Bill	Wrapped toy Car in blue wrapping paper.
+Time 391: Elf Bill	Placed toy Car on sleigh.
+
+Time 393: Elf Bill	Selected toy Train for girl.
+Time 394: Elf Bill	Wrapped toy Train in pink wrapping paper.
+Time 402: Elf Bill	Placed toy Train on sleigh.
+
+Time 403: Elf Bill	Selected toy Tablet for boy.
+Time 404: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 404: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 406: Elf Bill	Selected toy Train for girl.
+Time 406: Elf Bill	Wrapped toy Train in silver wrapping paper.
+Time 411: Elf Bill	Placed toy Train on sleigh.
+
+Time 412: Elf Bill	Selected toy Train for girl.
+Time 413: Elf Bill	Wrapped toy Train in silver wrapping paper.
+Time 413: Elf Bill	Placed toy Train on sleigh.
+
+Time 414: Elf Bill	Selected toy Train for boy.
+Time 416: Elf Bill	Wrapped toy Train in red wrapping paper.
+Time 423: Elf Bill	Placed toy Train on sleigh.
+
+Time 423: Elf Bill	Selected toy Train for girl.
+Time 424: Elf Bill	Wrapped toy Train in pink wrapping paper.
+Time 424: Elf Bill	Placed toy Train on sleigh.
+
+Time 425: Elf Bill	Selected toy Doll for boy.
+Time 425: Elf Bill	Wrapped toy Doll in blue wrapping paper.
+Time 434: Elf Bill	Placed toy Doll on sleigh.
+
+Time 434: Elf Bill	Selected toy Barbie for girl.
+Time 435: Elf Bill	Wrapped toy Barbie in pink wrapping paper.
+Time 435: Elf Bill	Placed toy Barbie on sleigh.
+
+Time 437: Elf Bill	Selected toy Drums for boy.
+Time 439: Elf Bill	Wrapped toy Drums in red wrapping paper.
+Time 446: Elf Bill	Placed toy Drums on sleigh.
+
+Time 447: Elf Bill	Selected toy Tablet for boy.
+Time 449: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 449: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 450: Elf Bill	Selected toy Guitar for boy.
+Time 450: Elf Bill	Wrapped toy Guitar in red wrapping paper.
+Time 454: Elf Bill	Placed toy Guitar on sleigh.
+
+Time 456: Elf Bill	Selected toy Puzzle for boy.
+Time 456: Elf Bill	Wrapped toy Puzzle in blue wrapping paper.
+Time 456: Elf Bill	Placed toy Puzzle on sleigh.
+
+Time 458: Elf Bill	Selected toy Drone for girl.
+Time 459: Elf Bill	Wrapped toy Drone in pink wrapping paper.
+Time 473: Elf Bill	Placed toy Drone on sleigh.
+
+Time 474: Elf Bill	Selected toy Train for girl.
+Time 474: Elf Bill	Wrapped toy Train in silver wrapping paper.
+Time 474: Elf Bill	Placed toy Train on sleigh.
+
+Time 475: Elf Bill	Selected toy Tablet for boy.
+Time 476: Elf Bill	Wrapped toy Tablet in red wrapping paper.
+Time 476: Elf Bill	Placed toy Tablet on sleigh.
+
+Time 476: Elf Bill	Selected toy Train for boy.
+Time 477: Elf Bill	Wrapped toy Train in red wrapping paper.
+Time 480: Elf Bill	Placed toy Train on sleigh.
+
