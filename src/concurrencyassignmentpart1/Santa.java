@@ -22,7 +22,6 @@ public class Santa extends Thread {
     int toyCount = 0;
     int ticksWaiting = 0;
     int hCount = 0;
-    private int lastPrint = 0;
 
     PrintWriter writer;
     
@@ -62,20 +61,19 @@ public class Santa extends Thread {
                     while(buf.isEmpty() && clock.getState() != Thread.State.TERMINATED){
 
                         try{
-//                            System.out.println(santa_id + " is" + " Waiting....");
                             buf.wait(); 
                         } catch (InterruptedException ex){}
                     }
                     int endTime = clock.getTick();
                     ticksWaiting += endTime - startTime;
                     Present s = consume();
-                    writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");//                     buf.notifyAll();
+                    writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Took toy " + s + " from sleigh.");
+                    writer.println();
+                    buf.notifyAll();
                     sack.add(s);
                     buf.notifyAll();
                 }
-                    if(sack.size() >= 6 && buf.isEmpty()){      
-                    break;
-                    }
+                    if(sack.size() >= 6 && buf.isEmpty()){ break; }
             }
             
             /**
@@ -87,7 +85,8 @@ public class Santa extends Thread {
                sleep(ThreadLocalRandom.current().nextInt(1500, 4000));     
             } catch (InterruptedException ex) {}
 
-            writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to his own allocated department");
+            writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to his own allocated department.");
+            writer.println();
       
 
             for (Iterator<Present> i = sack.iterator(); i.hasNext() && !clock.isStopped();) {
@@ -103,7 +102,7 @@ public class Santa extends Thread {
 
                 Present g = i.next();
 
-                writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Gives Toy " + g);
+                writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Gives Toy " + g + ".");
                 writer.println();
                 
                 i.remove();
@@ -119,15 +118,15 @@ public class Santa extends Thread {
                 sleep(ThreadLocalRandom.current().nextInt(1500, 4000));
             } catch (InterruptedException ex) {}
 
-            writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to the Toy Store!");
-            
-            if((int) (clock.getTick()/60) > lastPrint){
-                report();
-                lastPrint++;
-                hCount++;
-            }
+            writer.println(clock.toString() + "Santa " + santa_id + "\t" +"Walked back to the Toy Store.");
+            writer.println();
+             hCount++;
         }
        writer.close();
+       synchronized(buf){
+           buf.notifyAll();
+       } 
+       
     }
     
     public void output() {

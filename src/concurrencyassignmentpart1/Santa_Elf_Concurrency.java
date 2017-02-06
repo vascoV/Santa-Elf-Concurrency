@@ -1,10 +1,6 @@
 package concurrencyassignmentpart1;
 
-import java.lang.management.ManagementFactory;
-import java.lang.management.ThreadInfo;
-import java.lang.management.ThreadMXBean;
-
-public class ConcurrencyAssignmentPart1 {
+public class Santa_Elf_Concurrency {
 
     public static void main(String[] args) {
         
@@ -42,6 +38,27 @@ public class ConcurrencyAssignmentPart1 {
         elf_5.start();
         
         clock.start();
+        
+        while (clock.getState()!=Thread.State.TERMINATED){
+            if ((clock.getTick() % 60) == 0 && clock.getTick()!= 0){
+                try{
+                    Thread.sleep(1000);
+                }catch(InterruptedException ex){}
+                
+                System.out.println("###################### Elf Hourly Report ###########################");
+                elf_1.report();
+                elf_2.report();
+                elf_3.report();
+                elf_4.report();
+                elf_5.report();
+                System.out.println("\n");
+                System.out.println("###################### Santa Hourly Report #########################");
+                santa1.report();
+                santa2.report();
+                santa3.report();
+                System.out.println("\n");
+            }
+        }
         
         /**
          * Causes the current thread 

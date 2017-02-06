@@ -13,42 +13,32 @@ public class Sleight {
     }
     
     /**
-      * Add a value to the buffer.  If the buffer is full, 
+      * Add a value to the buffer. 
       */
     public void addToSleight(Present item){
         
         counter++;
-        sleight[counter-1] = item; //if 120 so you are 119
-        
-//        System.out.println("Producing Gifts: " + "\t" + "counter: " + counter);
-//         System.out.println("################################################");
+        sleight[counter-1] = item;
     }
     
     public Present extract(){
         
         Present item = sleight[counter-1];
-        counter--;
-        
-//         System.out.println("Remove Gifts: " + "\t" + "counter: " + counter);
-        
+        counter--;    
         return item;
     }
     
     public boolean isFull(){
         
         boolean sleightFull = true;
-        
         sleightFull = counter == Sleight_Size;
-        
         return sleightFull;
     }
     
     public boolean isEmpty(){
        
         boolean sleightEmpty = true;
-        
         sleightEmpty = counter == 0;
-        
         return sleightEmpty;
     }
     

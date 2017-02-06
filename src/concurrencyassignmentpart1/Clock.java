@@ -5,8 +5,8 @@ public class Clock extends Thread {
     private volatile int count = 0;
     boolean stop = false;
     boolean finished = false;
-    final int MAXTICK = 60*8;
-    final int TICKTIME = 500;
+    final int MAXTICK = 60*8;  //60 minutes * 8 hours
+    final int TICKTIME = 1000; 
 
     private static final Clock instance = new Clock();
 
