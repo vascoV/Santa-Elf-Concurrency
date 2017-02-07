@@ -26,6 +26,11 @@ public class Santa_Elf_Concurrency {
         
         /**
          * Begin execution of the threads
+         * The start method is responsible for causing
+         * the thread to begin execution. It just schedules 
+         * the thread and when the CPU Scheduler picks this thread 
+         * for execution then the JVM calls the run() method to 
+         * actually  start the execution of the thread.
          */
         santa1.start();
         santa2.start();
@@ -39,6 +44,13 @@ public class Santa_Elf_Concurrency {
         
         clock.start();
         
+        /**
+         * This wile loop is used to check if the clock state is terminated
+         * if not then I have an If statement getting report each hour
+         * I am using the Thread sleep because each hour the report is 
+         * printed several time therefore I used sleep method to cause delay
+         * between each report
+         */
         while (clock.getState()!=Thread.State.TERMINATED){
             if ((clock.getTick() % 60) == 0 && clock.getTick()!= 0){
                 try{
@@ -63,7 +75,7 @@ public class Santa_Elf_Concurrency {
         /**
          * Causes the current thread 
          * to pause execution until 
-         * each thread terminates
+         * each thread terminates.
          */
         try {
             
@@ -82,7 +94,8 @@ public class Santa_Elf_Concurrency {
         
         /**
          * Output on the console the 
-         * activities of the day
+         * activities of the day, at the end
+         * if the working day.
          */
         elf_1.output();
         elf_2.output();
@@ -99,7 +112,12 @@ public class Santa_Elf_Concurrency {
         System.out.println("\n");
         System.out.println("Toys left into the sleigh at the end of the day: " + sleight.getCounter() + "\n");
         System.out.print("\n");
-        System.out.println("Stolen Gifts: " + (elf_1.getToyElfCount() + elf_2.getToyElfCount() + elf_3.getToyElfCount() + elf_4.getToyElfCount() + elf_5.getToyElfCount() - santa1.getToySantaCount() - santa2.getToySantaCount() - santa3.getToySantaCount() - sleight.getCounter() - santa1.getSackSize() - santa2.getSackSize() - santa3.getSackSize()) + "\n");
+        
+        /**
+         * A simple calculation to check if gift have been stolen 
+         */
+        System.out.println("Missing Gifts: " + (elf_1.getToyElfCount() + elf_2.getToyElfCount() + elf_3.getToyElfCount() + elf_4.getToyElfCount() + elf_5.getToyElfCount() - santa1.getToySantaCount() - santa2.getToySantaCount() - santa3.getToySantaCount() - sleight.getCounter() - santa1.getSackSize() - santa2.getSackSize() - santa3.getSackSize()) + "\n");
+        
         System.out.println("End of the Working Day");
     }
 }

@@ -3,7 +3,7 @@ package concurrencyassignmentpart1;
 
 public class Sleight {
     
-    private final Present [] sleight;
+    private final Present [] sleight; //Initilizing an array of type Present for storring all the gifts
     private int counter = 0; //next empty slot in the sleight (buffer)
     private static  int Sleight_Size;
     
@@ -17,10 +17,14 @@ public class Sleight {
       */
     public void addToSleight(Present item){
         
-        counter++;
+        counter++; //increasing the empty slots
         sleight[counter-1] = item;
     }
     
+    /**
+     * Removing item from the buffer.
+     * @return 
+     */
     public Present extract(){
         
         Present item = sleight[counter-1];
@@ -28,6 +32,10 @@ public class Sleight {
         return item;
     }
     
+    /**
+     * Return true if the sleight is full
+     * @return 
+     */
     public boolean isFull(){
         
         boolean sleightFull = true;
@@ -35,6 +43,10 @@ public class Sleight {
         return sleightFull;
     }
     
+    /**
+     * Return true if the sleight is empty
+     * @return 
+     */
     public boolean isEmpty(){
        
         boolean sleightEmpty = true;
@@ -42,6 +54,11 @@ public class Sleight {
         return sleightEmpty;
     }
     
+    /**
+     * Return the available gifts inside
+     * the Sleight
+     * @return 
+     */
     public int getCounter(){
         return counter;
     }

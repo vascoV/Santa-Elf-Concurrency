@@ -1,448 +1,472 @@
-Time 2: Elf Jane	Selected toy Dinosaur for girl.
-Time 3: Elf Jane	Wrapped toy Dinosaur in silver wrapping paper.
-Time 3: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 1: Elf Jane	Selected toy Drone for girl.
+Time 1: Elf Jane	Wrapped toy Drone in pink wrapping paper.
+Time 1: Elf Jane	Placed toy Drone on sleigh.
 
-Time 3: Elf Jane	Selected toy Barbie for girl.
-Time 4: Elf Jane	Wrapped toy Barbie in silver wrapping paper.
-Time 4: Elf Jane	Placed toy Barbie on sleigh.
+Time 3: Elf Jane	Selected toy Drone for boy.
+Time 5: Elf Jane	Wrapped toy Drone in red wrapping paper.
+Time 5: Elf Jane	Placed toy Drone on sleigh.
 
-Time 6: Elf Jane	Selected toy Puzzle for girl.
-Time 7: Elf Jane	Wrapped toy Puzzle in silver wrapping paper.
+Time 5: Elf Jane	Selected toy Puzzle for boy.
+Time 7: Elf Jane	Wrapped toy Puzzle in red wrapping paper.
 Time 7: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 8: Elf Jane	Selected toy Tablet for girl.
-Time 8: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
-Time 8: Elf Jane	Placed toy Tablet on sleigh.
+Time 8: Elf Jane	Selected toy Puzzle for girl.
+Time 8: Elf Jane	Wrapped toy Puzzle in silver wrapping paper.
+Time 8: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 10: Elf Jane	Selected toy Train for boy.
-Time 11: Elf Jane	Wrapped toy Train in blue wrapping paper.
-Time 11: Elf Jane	Placed toy Train on sleigh.
+Time 8: Elf Jane	Selected toy Puzzle for girl.
+Time 10: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 10: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 13: Elf Jane	Selected toy PC for girl.
-Time 13: Elf Jane	Wrapped toy PC in pink wrapping paper.
-Time 13: Elf Jane	Placed toy PC on sleigh.
+Time 10: Elf Jane	Selected toy Dinosaur for girl.
+Time 10: Elf Jane	Wrapped toy Dinosaur in silver wrapping paper.
+Time 10: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 14: Elf Jane	Selected toy Tablet for boy.
-Time 16: Elf Jane	Wrapped toy Tablet in red wrapping paper.
-Time 16: Elf Jane	Placed toy Tablet on sleigh.
+Time 12: Elf Jane	Selected toy Puzzle for girl.
+Time 14: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 14: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 16: Elf Jane	Selected toy PC for boy.
-Time 18: Elf Jane	Wrapped toy PC in blue wrapping paper.
-Time 18: Elf Jane	Placed toy PC on sleigh.
+Time 14: Elf Jane	Selected toy Tablet for girl.
+Time 15: Elf Jane	Wrapped toy Tablet in silver wrapping paper.
+Time 15: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 19: Elf Jane	Selected toy Dinosaur for girl.
-Time 20: Elf Jane	Wrapped toy Dinosaur in pink wrapping paper.
-Time 20: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 15: Elf Jane	Selected toy Drums for girl.
+Time 16: Elf Jane	Wrapped toy Drums in pink wrapping paper.
+Time 16: Elf Jane	Placed toy Drums on sleigh.
 
-Time 20: Elf Jane	Selected toy Tablet for girl.
-Time 21: Elf Jane	Wrapped toy Tablet in silver wrapping paper.
-Time 21: Elf Jane	Placed toy Tablet on sleigh.
+Time 16: Elf Jane	Selected toy Tablet for boy.
+Time 17: Elf Jane	Wrapped toy Tablet in red wrapping paper.
+Time 17: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 23: Elf Jane	Selected toy Barbie for boy.
-Time 24: Elf Jane	Wrapped toy Barbie in red wrapping paper.
-Time 24: Elf Jane	Placed toy Barbie on sleigh.
+Time 18: Elf Jane	Selected toy Puzzle for girl.
+Time 19: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 19: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 24: Elf Jane	Selected toy Tablet for girl.
-Time 25: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
-Time 25: Elf Jane	Placed toy Tablet on sleigh.
+Time 21: Elf Jane	Selected toy Barbie for boy.
+Time 21: Elf Jane	Wrapped toy Barbie in red wrapping paper.
+Time 21: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 26: Elf Jane	Selected toy Car for girl.
-Time 27: Elf Jane	Wrapped toy Car in silver wrapping paper.
-Time 27: Elf Jane	Placed toy Car on sleigh.
+Time 22: Elf Jane	Selected toy Puzzle for girl.
+Time 24: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 24: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 29: Elf Jane	Selected toy Drums for boy.
-Time 29: Elf Jane	Wrapped toy Drums in red wrapping paper.
+Time 24: Elf Jane	Selected toy Car for boy.
+Time 25: Elf Jane	Wrapped toy Car in blue wrapping paper.
+Time 25: Elf Jane	Placed toy Car on sleigh.
+
+Time 26: Elf Jane	Selected toy Train for boy.
+Time 27: Elf Jane	Wrapped toy Train in blue wrapping paper.
+Time 27: Elf Jane	Placed toy Train on sleigh.
+
+Time 27: Elf Jane	Selected toy Drums for girl.
+Time 29: Elf Jane	Wrapped toy Drums in pink wrapping paper.
 Time 29: Elf Jane	Placed toy Drums on sleigh.
 
-Time 31: Elf Jane	Selected toy Train for boy.
-Time 31: Elf Jane	Wrapped toy Train in red wrapping paper.
-Time 31: Elf Jane	Placed toy Train on sleigh.
+Time 31: Elf Jane	Selected toy Dinosaur for boy.
+Time 32: Elf Jane	Wrapped toy Dinosaur in blue wrapping paper.
+Time 32: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 33: Elf Jane	Selected toy Car for boy.
-Time 35: Elf Jane	Wrapped toy Car in blue wrapping paper.
-Time 35: Elf Jane	Placed toy Car on sleigh.
+Time 32: Elf Jane	Selected toy PC for boy.
+Time 33: Elf Jane	Wrapped toy PC in red wrapping paper.
+Time 33: Elf Jane	Placed toy PC on sleigh.
 
-Time 37: Elf Jane	Selected toy Tablet for boy.
-Time 37: Elf Jane	Wrapped toy Tablet in red wrapping paper.
-Time 37: Elf Jane	Placed toy Tablet on sleigh.
+Time 35: Elf Jane	Selected toy Guitar for boy.
+Time 36: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
+Time 36: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 37: Elf Jane	Selected toy Dinosaur for girl.
-Time 38: Elf Jane	Wrapped toy Dinosaur in pink wrapping paper.
-Time 38: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 37: Elf Jane	Selected toy Barbie for girl.
+Time 37: Elf Jane	Wrapped toy Barbie in pink wrapping paper.
+Time 37: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 39: Elf Jane	Selected toy Car for boy.
-Time 41: Elf Jane	Wrapped toy Car in red wrapping paper.
-Time 41: Elf Jane	Placed toy Car on sleigh.
+Time 38: Elf Jane	Selected toy PC for boy.
+Time 39: Elf Jane	Wrapped toy PC in red wrapping paper.
+Time 39: Elf Jane	Placed toy PC on sleigh.
 
-Time 41: Elf Jane	Selected toy Puzzle for girl.
-Time 41: Elf Jane	Wrapped toy Puzzle in silver wrapping paper.
-Time 41: Elf Jane	Placed toy Puzzle on sleigh.
+Time 39: Elf Jane	Selected toy Guitar for boy.
+Time 40: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
+Time 40: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 42: Elf Jane	Selected toy Train for boy.
-Time 44: Elf Jane	Wrapped toy Train in red wrapping paper.
-Time 44: Elf Jane	Placed toy Train on sleigh.
+Time 40: Elf Jane	Selected toy Drone for boy.
+Time 41: Elf Jane	Wrapped toy Drone in blue wrapping paper.
+Time 41: Elf Jane	Placed toy Drone on sleigh.
 
-Time 44: Elf Jane	Selected toy Tablet for girl.
-Time 46: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
-Time 46: Elf Jane	Placed toy Tablet on sleigh.
+Time 43: Elf Jane	Selected toy PC for boy.
+Time 44: Elf Jane	Wrapped toy PC in blue wrapping paper.
+Time 44: Elf Jane	Placed toy PC on sleigh.
 
-Time 47: Elf Jane	Selected toy Car for girl.
-Time 48: Elf Jane	Wrapped toy Car in silver wrapping paper.
-Time 48: Elf Jane	Placed toy Car on sleigh.
+Time 46: Elf Jane	Selected toy Drums for boy.
+Time 47: Elf Jane	Wrapped toy Drums in blue wrapping paper.
+Time 47: Elf Jane	Placed toy Drums on sleigh.
 
-Time 49: Elf Jane	Selected toy Drone for boy.
-Time 50: Elf Jane	Wrapped toy Drone in blue wrapping paper.
-Time 50: Elf Jane	Placed toy Drone on sleigh.
+Time 47: Elf Jane	Selected toy Tablet for boy.
+Time 49: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
+Time 49: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 50: Elf Jane	Selected toy Drums for boy.
-Time 51: Elf Jane	Wrapped toy Drums in red wrapping paper.
-Time 51: Elf Jane	Placed toy Drums on sleigh.
+Time 50: Elf Jane	Selected toy Train for boy.
+Time 52: Elf Jane	Wrapped toy Train in red wrapping paper.
+Time 52: Elf Jane	Placed toy Train on sleigh.
 
-Time 52: Elf Jane	Selected toy Doll for boy.
-Time 54: Elf Jane	Wrapped toy Doll in red wrapping paper.
-Time 54: Elf Jane	Placed toy Doll on sleigh.
+Time 52: Elf Jane	Selected toy Dinosaur for boy.
+Time 54: Elf Jane	Wrapped toy Dinosaur in blue wrapping paper.
+Time 54: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 55: Elf Jane	Selected toy Dinosaur for boy.
-Time 56: Elf Jane	Wrapped toy Dinosaur in blue wrapping paper.
-Time 56: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 55: Elf Jane	Selected toy Train for girl.
+Time 55: Elf Jane	Wrapped toy Train in pink wrapping paper.
+Time 55: Elf Jane	Placed toy Train on sleigh.
 
-Time 56: Elf Jane	Selected toy Drums for girl.
-Time 57: Elf Jane	Wrapped toy Drums in pink wrapping paper.
-Time 57: Elf Jane	Placed toy Drums on sleigh.
+Time 56: Elf Jane	Selected toy Guitar for girl.
+Time 57: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
+Time 57: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 58: Elf Jane	Selected toy Dinosaur for boy.
-Time 58: Elf Jane	Wrapped toy Dinosaur in red wrapping paper.
-Time 58: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 57: Elf Jane	Selected toy Doll for boy.
+Time 58: Elf Jane	Wrapped toy Doll in blue wrapping paper.
+Time 58: Elf Jane	Placed toy Doll on sleigh.
 
-Time 59: Elf Jane	Selected toy Drums for girl.
-Time 60: Elf Jane	Wrapped toy Drums in pink wrapping paper.
-Time 60: Elf Jane	Placed toy Drums on sleigh.
+Time 58: Elf Jane	Selected toy Barbie for girl.
+Time 59: Elf Jane	Wrapped toy Barbie in pink wrapping paper.
+Time 59: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 61: Elf Jane	Selected toy Puzzle for boy.
-Time 62: Elf Jane	Wrapped toy Puzzle in blue wrapping paper.
-Time 62: Elf Jane	Placed toy Puzzle on sleigh.
+Time 60: Elf Jane	Selected toy PC for boy.
+Time 61: Elf Jane	Wrapped toy PC in red wrapping paper.
+Time 61: Elf Jane	Placed toy PC on sleigh.
 
-Time 63: Elf Jane	Selected toy Tablet for boy.
-Time 64: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
-Time 64: Elf Jane	Placed toy Tablet on sleigh.
+Time 61: Elf Jane	Selected toy Train for boy.
+Time 62: Elf Jane	Wrapped toy Train in red wrapping paper.
+Time 62: Elf Jane	Placed toy Train on sleigh.
 
-Time 65: Elf Jane	Selected toy Train for boy.
-Time 66: Elf Jane	Wrapped toy Train in blue wrapping paper.
-Time 66: Elf Jane	Placed toy Train on sleigh.
+Time 62: Elf Jane	Selected toy Tablet for boy.
+Time 62: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
+Time 62: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 66: Elf Jane	Selected toy Tablet for boy.
-Time 67: Elf Jane	Wrapped toy Tablet in red wrapping paper.
-Time 67: Elf Jane	Placed toy Tablet on sleigh.
+Time 63: Elf Jane	Selected toy Guitar for girl.
+Time 65: Elf Jane	Wrapped toy Guitar in silver wrapping paper.
+Time 65: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 68: Elf Jane	Selected toy Drone for girl.
-Time 70: Elf Jane	Wrapped toy Drone in pink wrapping paper.
-Time 70: Elf Jane	Placed toy Drone on sleigh.
+Time 67: Elf Jane	Selected toy Drums for boy.
+Time 67: Elf Jane	Wrapped toy Drums in red wrapping paper.
+Time 67: Elf Jane	Placed toy Drums on sleigh.
 
-Time 71: Elf Jane	Selected toy PC for girl.
-Time 72: Elf Jane	Wrapped toy PC in silver wrapping paper.
-Time 72: Elf Jane	Placed toy PC on sleigh.
+Time 69: Elf Jane	Selected toy Tablet for girl.
+Time 71: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
+Time 71: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 74: Elf Jane	Selected toy Drone for girl.
-Time 74: Elf Jane	Wrapped toy Drone in silver wrapping paper.
-Time 74: Elf Jane	Placed toy Drone on sleigh.
+Time 72: Elf Jane	Selected toy Drone for boy.
+Time 73: Elf Jane	Wrapped toy Drone in red wrapping paper.
+Time 73: Elf Jane	Placed toy Drone on sleigh.
 
-Time 76: Elf Jane	Selected toy Guitar for boy.
-Time 76: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
+Time 74: Elf Jane	Selected toy Train for boy.
+Time 74: Elf Jane	Wrapped toy Train in blue wrapping paper.
+Time 74: Elf Jane	Placed toy Train on sleigh.
+
+Time 76: Elf Jane	Selected toy Guitar for girl.
+Time 76: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
 Time 76: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 77: Elf Jane	Selected toy Barbie for boy.
-Time 78: Elf Jane	Wrapped toy Barbie in blue wrapping paper.
-Time 78: Elf Jane	Placed toy Barbie on sleigh.
+Time 77: Elf Jane	Selected toy Guitar for girl.
+Time 79: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
+Time 79: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 79: Elf Jane	Selected toy Doll for girl.
-Time 80: Elf Jane	Wrapped toy Doll in pink wrapping paper.
+Time 80: Elf Jane	Selected toy Doll for boy.
+Time 80: Elf Jane	Wrapped toy Doll in red wrapping paper.
 Time 80: Elf Jane	Placed toy Doll on sleigh.
 
-Time 82: Elf Jane	Selected toy Dinosaur for boy.
-Time 83: Elf Jane	Wrapped toy Dinosaur in red wrapping paper.
-Time 91: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 81: Elf Jane	Selected toy PC for boy.
+Time 82: Elf Jane	Wrapped toy PC in red wrapping paper.
+Time 82: Elf Jane	Placed toy PC on sleigh.
 
-Time 92: Elf Jane	Selected toy PC for boy.
-Time 92: Elf Jane	Wrapped toy PC in red wrapping paper.
-Time 92: Elf Jane	Placed toy PC on sleigh.
-
-Time 93: Elf Jane	Selected toy Train for boy.
-Time 94: Elf Jane	Wrapped toy Train in red wrapping paper.
-Time 94: Elf Jane	Placed toy Train on sleigh.
+Time 84: Elf Jane	Selected toy Guitar for boy.
+Time 84: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
+Time 95: Elf Jane	Placed toy Guitar on sleigh.
 
 Time 95: Elf Jane	Selected toy Guitar for girl.
-Time 96: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
-Time 96: Elf Jane	Placed toy Guitar on sleigh.
+Time 97: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
+Time 97: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 98: Elf Jane	Selected toy Doll for girl.
-Time 99: Elf Jane	Wrapped toy Doll in pink wrapping paper.
-Time 110: Elf Jane	Placed toy Doll on sleigh.
+Time 97: Elf Jane	Selected toy Tablet for boy.
+Time 98: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
+Time 98: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 111: Elf Jane	Selected toy Car for girl.
-Time 113: Elf Jane	Wrapped toy Car in pink wrapping paper.
-Time 113: Elf Jane	Placed toy Car on sleigh.
+Time 99: Elf Jane	Selected toy PC for boy.
+Time 100: Elf Jane	Wrapped toy PC in blue wrapping paper.
+Time 100: Elf Jane	Placed toy PC on sleigh.
 
-Time 114: Elf Jane	Selected toy Doll for girl.
-Time 115: Elf Jane	Wrapped toy Doll in pink wrapping paper.
-Time 122: Elf Jane	Placed toy Doll on sleigh.
+Time 100: Elf Jane	Selected toy Doll for boy.
+Time 101: Elf Jane	Wrapped toy Doll in blue wrapping paper.
+Time 101: Elf Jane	Placed toy Doll on sleigh.
 
-Time 123: Elf Jane	Selected toy PC for girl.
-Time 125: Elf Jane	Wrapped toy PC in pink wrapping paper.
-Time 125: Elf Jane	Placed toy PC on sleigh.
+Time 102: Elf Jane	Selected toy Train for girl.
+Time 102: Elf Jane	Wrapped toy Train in pink wrapping paper.
+Time 102: Elf Jane	Placed toy Train on sleigh.
 
-Time 125: Elf Jane	Selected toy Drums for boy.
-Time 127: Elf Jane	Wrapped toy Drums in blue wrapping paper.
-Time 127: Elf Jane	Placed toy Drums on sleigh.
+Time 103: Elf Jane	Selected toy Guitar for girl.
+Time 104: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
+Time 104: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 127: Elf Jane	Selected toy PC for girl.
-Time 128: Elf Jane	Wrapped toy PC in silver wrapping paper.
-Time 128: Elf Jane	Placed toy PC on sleigh.
+Time 105: Elf Jane	Selected toy Tablet for girl.
+Time 105: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
+Time 127: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 128: Elf Jane	Selected toy Puzzle for girl.
-Time 129: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
-Time 129: Elf Jane	Placed toy Puzzle on sleigh.
+Time 129: Elf Jane	Selected toy Train for boy.
+Time 130: Elf Jane	Wrapped toy Train in blue wrapping paper.
+Time 134: Elf Jane	Placed toy Train on sleigh.
 
-Time 130: Elf Jane	Selected toy Train for boy.
-Time 131: Elf Jane	Wrapped toy Train in red wrapping paper.
-Time 146: Elf Jane	Placed toy Train on sleigh.
+Time 135: Elf Jane	Selected toy Guitar for boy.
+Time 136: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
+Time 136: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 148: Elf Jane	Selected toy Car for boy.
-Time 149: Elf Jane	Wrapped toy Car in blue wrapping paper.
-Time 149: Elf Jane	Placed toy Car on sleigh.
+Time 137: Elf Jane	Selected toy Train for girl.
+Time 137: Elf Jane	Wrapped toy Train in pink wrapping paper.
+Time 137: Elf Jane	Placed toy Train on sleigh.
 
-Time 150: Elf Jane	Selected toy Car for girl.
-Time 151: Elf Jane	Wrapped toy Car in silver wrapping paper.
-Time 157: Elf Jane	Placed toy Car on sleigh.
+Time 138: Elf Jane	Selected toy Tablet for girl.
+Time 139: Elf Jane	Wrapped toy Tablet in silver wrapping paper.
+Time 139: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 157: Elf Jane	Selected toy Doll for boy.
-Time 158: Elf Jane	Wrapped toy Doll in blue wrapping paper.
-Time 158: Elf Jane	Placed toy Doll on sleigh.
+Time 139: Elf Jane	Selected toy Guitar for girl.
+Time 139: Elf Jane	Wrapped toy Guitar in silver wrapping paper.
+Time 160: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 159: Elf Jane	Selected toy Puzzle for girl.
-Time 160: Elf Jane	Wrapped toy Puzzle in silver wrapping paper.
-Time 160: Elf Jane	Placed toy Puzzle on sleigh.
+Time 161: Elf Jane	Selected toy Drums for boy.
+Time 161: Elf Jane	Wrapped toy Drums in blue wrapping paper.
+Time 161: Elf Jane	Placed toy Drums on sleigh.
 
-Time 161: Elf Jane	Selected toy Doll for boy.
-Time 163: Elf Jane	Wrapped toy Doll in blue wrapping paper.
-Time 163: Elf Jane	Placed toy Doll on sleigh.
+Time 162: Elf Jane	Selected toy PC for boy.
+Time 163: Elf Jane	Wrapped toy PC in red wrapping paper.
+Time 166: Elf Jane	Placed toy PC on sleigh.
 
-Time 164: Elf Jane	Selected toy PC for boy.
-Time 164: Elf Jane	Wrapped toy PC in blue wrapping paper.
-Time 174: Elf Jane	Placed toy PC on sleigh.
+Time 168: Elf Jane	Selected toy Drone for girl.
+Time 169: Elf Jane	Wrapped toy Drone in silver wrapping paper.
+Time 169: Elf Jane	Placed toy Drone on sleigh.
 
-Time 174: Elf Jane	Selected toy Train for girl.
-Time 175: Elf Jane	Wrapped toy Train in silver wrapping paper.
-Time 175: Elf Jane	Placed toy Train on sleigh.
+Time 169: Elf Jane	Selected toy Guitar for boy.
+Time 171: Elf Jane	Wrapped toy Guitar in red wrapping paper.
+Time 171: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 176: Elf Jane	Selected toy Doll for girl.
-Time 177: Elf Jane	Wrapped toy Doll in pink wrapping paper.
-Time 190: Elf Jane	Placed toy Doll on sleigh.
+Time 172: Elf Jane	Selected toy Tablet for girl.
+Time 173: Elf Jane	Wrapped toy Tablet in silver wrapping paper.
+Time 194: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 192: Elf Jane	Selected toy Car for boy.
-Time 192: Elf Jane	Wrapped toy Car in red wrapping paper.
-Time 192: Elf Jane	Placed toy Car on sleigh.
+Time 195: Elf Jane	Selected toy PC for girl.
+Time 195: Elf Jane	Wrapped toy PC in pink wrapping paper.
+Time 195: Elf Jane	Placed toy PC on sleigh.
 
-Time 194: Elf Jane	Selected toy PC for boy.
-Time 194: Elf Jane	Wrapped toy PC in blue wrapping paper.
-Time 194: Elf Jane	Placed toy PC on sleigh.
+Time 196: Elf Jane	Selected toy Tablet for boy.
+Time 196: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
+Time 196: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 196: Elf Jane	Selected toy Car for girl.
-Time 198: Elf Jane	Wrapped toy Car in silver wrapping paper.
-Time 212: Elf Jane	Placed toy Car on sleigh.
+Time 197: Elf Jane	Selected toy Tablet for boy.
+Time 199: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
+Time 199: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 214: Elf Jane	Selected toy Train for girl.
-Time 215: Elf Jane	Wrapped toy Train in pink wrapping paper.
-Time 221: Elf Jane	Placed toy Train on sleigh.
+Time 199: Elf Jane	Selected toy Guitar for girl.
+Time 200: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
+Time 200: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 221: Elf Jane	Selected toy Car for girl.
-Time 222: Elf Jane	Wrapped toy Car in silver wrapping paper.
-Time 222: Elf Jane	Placed toy Car on sleigh.
+Time 201: Elf Jane	Selected toy Tablet for boy.
+Time 202: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
+Time 202: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 224: Elf Jane	Selected toy Doll for girl.
-Time 224: Elf Jane	Wrapped toy Doll in silver wrapping paper.
-Time 233: Elf Jane	Placed toy Doll on sleigh.
+Time 202: Elf Jane	Selected toy Puzzle for girl.
+Time 203: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 203: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 234: Elf Jane	Selected toy Barbie for girl.
-Time 234: Elf Jane	Wrapped toy Barbie in pink wrapping paper.
-Time 234: Elf Jane	Placed toy Barbie on sleigh.
+Time 204: Elf Jane	Selected toy Guitar for boy.
+Time 205: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
+Time 231: Elf Jane	Placed toy Guitar on sleigh.
 
-Time 235: Elf Jane	Selected toy Drone for girl.
-Time 237: Elf Jane	Wrapped toy Drone in pink wrapping paper.
-Time 245: Elf Jane	Placed toy Drone on sleigh.
+Time 232: Elf Jane	Selected toy Drums for boy.
+Time 233: Elf Jane	Wrapped toy Drums in blue wrapping paper.
+Time 233: Elf Jane	Placed toy Drums on sleigh.
 
-Time 245: Elf Jane	Selected toy Puzzle for girl.
-Time 247: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
-Time 247: Elf Jane	Placed toy Puzzle on sleigh.
+Time 235: Elf Jane	Selected toy Barbie for girl.
+Time 236: Elf Jane	Wrapped toy Barbie in pink wrapping paper.
+Time 236: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 248: Elf Jane	Selected toy Guitar for girl.
-Time 249: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
-Time 250: Elf Jane	Placed toy Guitar on sleigh.
+Time 236: Elf Jane	Selected toy Puzzle for girl.
+Time 238: Elf Jane	Wrapped toy Puzzle in silver wrapping paper.
+Time 238: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 250: Elf Jane	Selected toy Drums for boy.
-Time 252: Elf Jane	Wrapped toy Drums in red wrapping paper.
-Time 252: Elf Jane	Placed toy Drums on sleigh.
+Time 239: Elf Jane	Selected toy Dinosaur for boy.
+Time 241: Elf Jane	Wrapped toy Dinosaur in red wrapping paper.
+Time 241: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 253: Elf Jane	Selected toy Train for girl.
-Time 253: Elf Jane	Wrapped toy Train in pink wrapping paper.
-Time 253: Elf Jane	Placed toy Train on sleigh.
+Time 242: Elf Jane	Selected toy Train for girl.
+Time 244: Elf Jane	Wrapped toy Train in silver wrapping paper.
+Time 261: Elf Jane	Placed toy Train on sleigh.
 
-Time 253: Elf Jane	Selected toy Drone for girl.
-Time 254: Elf Jane	Wrapped toy Drone in silver wrapping paper.
-Time 266: Elf Jane	Placed toy Drone on sleigh.
+Time 262: Elf Jane	Selected toy Barbie for boy.
+Time 263: Elf Jane	Wrapped toy Barbie in red wrapping paper.
+Time 263: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 267: Elf Jane	Selected toy Tablet for girl.
-Time 269: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
-Time 274: Elf Jane	Placed toy Tablet on sleigh.
+Time 263: Elf Jane	Selected toy Drums for boy.
+Time 264: Elf Jane	Wrapped toy Drums in blue wrapping paper.
+Time 267: Elf Jane	Placed toy Drums on sleigh.
 
-Time 276: Elf Jane	Selected toy Car for boy.
-Time 277: Elf Jane	Wrapped toy Car in red wrapping paper.
-Time 277: Elf Jane	Placed toy Car on sleigh.
+Time 268: Elf Jane	Selected toy Dinosaur for girl.
+Time 270: Elf Jane	Wrapped toy Dinosaur in silver wrapping paper.
+Time 270: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 279: Elf Jane	Selected toy Puzzle for girl.
-Time 281: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
-Time 284: Elf Jane	Placed toy Puzzle on sleigh.
+Time 272: Elf Jane	Selected toy Drone for boy.
+Time 272: Elf Jane	Wrapped toy Drone in red wrapping paper.
+Time 272: Elf Jane	Placed toy Drone on sleigh.
 
-Time 286: Elf Jane	Selected toy Drone for girl.
-Time 287: Elf Jane	Wrapped toy Drone in silver wrapping paper.
-Time 287: Elf Jane	Placed toy Drone on sleigh.
+Time 273: Elf Jane	Selected toy Doll for girl.
+Time 275: Elf Jane	Wrapped toy Doll in pink wrapping paper.
+Time 293: Elf Jane	Placed toy Doll on sleigh.
 
-Time 287: Elf Jane	Selected toy Barbie for boy.
-Time 288: Elf Jane	Wrapped toy Barbie in blue wrapping paper.
+Time 293: Elf Jane	Selected toy Train for girl.
+Time 293: Elf Jane	Wrapped toy Train in pink wrapping paper.
+Time 293: Elf Jane	Placed toy Train on sleigh.
+
+Time 295: Elf Jane	Selected toy Car for girl.
+Time 296: Elf Jane	Wrapped toy Car in silver wrapping paper.
+Time 296: Elf Jane	Placed toy Car on sleigh.
+
+Time 296: Elf Jane	Selected toy Barbie for girl.
+Time 296: Elf Jane	Wrapped toy Barbie in silver wrapping paper.
 Time 300: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 301: Elf Jane	Selected toy Barbie for boy.
-Time 301: Elf Jane	Wrapped toy Barbie in red wrapping paper.
-Time 301: Elf Jane	Placed toy Barbie on sleigh.
+Time 301: Elf Jane	Selected toy Drone for girl.
+Time 302: Elf Jane	Wrapped toy Drone in silver wrapping paper.
+Time 302: Elf Jane	Placed toy Drone on sleigh.
 
-Time 303: Elf Jane	Selected toy Car for boy.
-Time 304: Elf Jane	Wrapped toy Car in red wrapping paper.
-Time 312: Elf Jane	Placed toy Car on sleigh.
+Time 304: Elf Jane	Selected toy Puzzle for girl.
+Time 304: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 304: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 312: Elf Jane	Selected toy Doll for boy.
-Time 313: Elf Jane	Wrapped toy Doll in blue wrapping paper.
-Time 313: Elf Jane	Placed toy Doll on sleigh.
+Time 306: Elf Jane	Selected toy Drums for boy.
+Time 308: Elf Jane	Wrapped toy Drums in red wrapping paper.
+Time 308: Elf Jane	Placed toy Drums on sleigh.
 
-Time 315: Elf Jane	Selected toy Tablet for girl.
-Time 316: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
-Time 317: Elf Jane	Placed toy Tablet on sleigh.
+Time 309: Elf Jane	Selected toy Drone for girl.
+Time 311: Elf Jane	Wrapped toy Drone in silver wrapping paper.
+Time 329: Elf Jane	Placed toy Drone on sleigh.
 
-Time 318: Elf Jane	Selected toy Drone for girl.
-Time 318: Elf Jane	Wrapped toy Drone in silver wrapping paper.
-Time 318: Elf Jane	Placed toy Drone on sleigh.
+Time 330: Elf Jane	Selected toy Tablet for girl.
+Time 331: Elf Jane	Wrapped toy Tablet in silver wrapping paper.
+Time 331: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 319: Elf Jane	Selected toy Barbie for girl.
-Time 320: Elf Jane	Wrapped toy Barbie in pink wrapping paper.
-Time 320: Elf Jane	Placed toy Barbie on sleigh.
+Time 332: Elf Jane	Selected toy Drone for girl.
+Time 333: Elf Jane	Wrapped toy Drone in silver wrapping paper.
+Time 333: Elf Jane	Placed toy Drone on sleigh.
 
-Time 320: Elf Jane	Selected toy Tablet for boy.
-Time 322: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
-Time 330: Elf Jane	Placed toy Tablet on sleigh.
+Time 333: Elf Jane	Selected toy Drums for girl.
+Time 335: Elf Jane	Wrapped toy Drums in pink wrapping paper.
+Time 335: Elf Jane	Placed toy Drums on sleigh.
 
-Time 330: Elf Jane	Selected toy Drums for boy.
-Time 331: Elf Jane	Wrapped toy Drums in red wrapping paper.
-Time 331: Elf Jane	Placed toy Drums on sleigh.
+Time 336: Elf Jane	Selected toy Doll for girl.
+Time 336: Elf Jane	Wrapped toy Doll in pink wrapping paper.
+Time 336: Elf Jane	Placed toy Doll on sleigh.
 
-Time 332: Elf Jane	Selected toy Drone for boy.
-Time 334: Elf Jane	Wrapped toy Drone in blue wrapping paper.
-Time 345: Elf Jane	Placed toy Drone on sleigh.
+Time 337: Elf Jane	Selected toy Tablet for boy.
+Time 338: Elf Jane	Wrapped toy Tablet in red wrapping paper.
+Time 338: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 346: Elf Jane	Selected toy Dinosaur for girl.
-Time 346: Elf Jane	Wrapped toy Dinosaur in pink wrapping paper.
-Time 346: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 339: Elf Jane	Selected toy Dinosaur for girl.
+Time 341: Elf Jane	Wrapped toy Dinosaur in pink wrapping paper.
+Time 363: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 346: Elf Jane	Selected toy Train for girl.
-Time 346: Elf Jane	Wrapped toy Train in silver wrapping paper.
-Time 346: Elf Jane	Placed toy Train on sleigh.
+Time 363: Elf Jane	Selected toy Drone for girl.
+Time 364: Elf Jane	Wrapped toy Drone in silver wrapping paper.
+Time 364: Elf Jane	Placed toy Drone on sleigh.
 
-Time 346: Elf Jane	Selected toy Dinosaur for boy.
-Time 347: Elf Jane	Wrapped toy Dinosaur in blue wrapping paper.
-Time 347: Elf Jane	Placed toy Dinosaur on sleigh.
+Time 366: Elf Jane	Selected toy PC for boy.
+Time 366: Elf Jane	Wrapped toy PC in red wrapping paper.
+Time 366: Elf Jane	Placed toy PC on sleigh.
 
-Time 349: Elf Jane	Selected toy Guitar for boy.
-Time 350: Elf Jane	Wrapped toy Guitar in red wrapping paper.
-Time 350: Elf Jane	Placed toy Guitar on sleigh.
+Time 367: Elf Jane	Selected toy Car for boy.
+Time 367: Elf Jane	Wrapped toy Car in red wrapping paper.
+Time 367: Elf Jane	Placed toy Car on sleigh.
 
-Time 352: Elf Jane	Selected toy Train for girl.
-Time 353: Elf Jane	Wrapped toy Train in silver wrapping paper.
-Time 368: Elf Jane	Placed toy Train on sleigh.
+Time 369: Elf Jane	Selected toy PC for boy.
+Time 369: Elf Jane	Wrapped toy PC in blue wrapping paper.
+Time 369: Elf Jane	Placed toy PC on sleigh.
 
-Time 368: Elf Jane	Selected toy Doll for boy.
-Time 369: Elf Jane	Wrapped toy Doll in blue wrapping paper.
-Time 369: Elf Jane	Placed toy Doll on sleigh.
+Time 371: Elf Jane	Selected toy Puzzle for boy.
+Time 372: Elf Jane	Wrapped toy Puzzle in red wrapping paper.
+Time 372: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 371: Elf Jane	Selected toy Drums for boy.
-Time 371: Elf Jane	Wrapped toy Drums in blue wrapping paper.
-Time 371: Elf Jane	Placed toy Drums on sleigh.
+Time 372: Elf Jane	Selected toy Doll for girl.
+Time 373: Elf Jane	Wrapped toy Doll in pink wrapping paper.
+Time 373: Elf Jane	Placed toy Doll on sleigh.
 
-Time 371: Elf Jane	Selected toy PC for boy.
-Time 372: Elf Jane	Wrapped toy PC in blue wrapping paper.
-Time 381: Elf Jane	Placed toy PC on sleigh.
+Time 375: Elf Jane	Selected toy Doll for girl.
+Time 376: Elf Jane	Wrapped toy Doll in silver wrapping paper.
+Time 394: Elf Jane	Placed toy Doll on sleigh.
 
-Time 382: Elf Jane	Selected toy Drums for boy.
-Time 384: Elf Jane	Wrapped toy Drums in red wrapping paper.
-Time 384: Elf Jane	Placed toy Drums on sleigh.
+Time 396: Elf Jane	Selected toy PC for girl.
+Time 396: Elf Jane	Wrapped toy PC in silver wrapping paper.
+Time 396: Elf Jane	Placed toy PC on sleigh.
 
-Time 385: Elf Jane	Selected toy PC for girl.
-Time 385: Elf Jane	Wrapped toy PC in pink wrapping paper.
-Time 389: Elf Jane	Placed toy PC on sleigh.
+Time 397: Elf Jane	Selected toy Tablet for girl.
+Time 397: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
+Time 397: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 390: Elf Jane	Selected toy Guitar for boy.
-Time 391: Elf Jane	Wrapped toy Guitar in blue wrapping paper.
-Time 391: Elf Jane	Placed toy Guitar on sleigh.
+Time 398: Elf Jane	Selected toy Dinosaur for boy.
+Time 399: Elf Jane	Wrapped toy Dinosaur in blue wrapping paper.
+Time 399: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 391: Elf Jane	Selected toy Train for girl.
-Time 392: Elf Jane	Wrapped toy Train in silver wrapping paper.
-Time 402: Elf Jane	Placed toy Train on sleigh.
+Time 400: Elf Jane	Selected toy Drone for girl.
+Time 401: Elf Jane	Wrapped toy Drone in silver wrapping paper.
+Time 405: Elf Jane	Placed toy Drone on sleigh.
 
-Time 403: Elf Jane	Selected toy Tablet for girl.
-Time 405: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
-Time 405: Elf Jane	Placed toy Tablet on sleigh.
+Time 405: Elf Jane	Selected toy Dinosaur for boy.
+Time 406: Elf Jane	Wrapped toy Dinosaur in red wrapping paper.
+Time 406: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 407: Elf Jane	Selected toy Car for girl.
-Time 409: Elf Jane	Wrapped toy Car in pink wrapping paper.
-Time 411: Elf Jane	Placed toy Car on sleigh.
+Time 408: Elf Jane	Selected toy Puzzle for girl.
+Time 408: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
+Time 429: Elf Jane	Placed toy Puzzle on sleigh.
 
-Time 412: Elf Jane	Selected toy PC for boy.
-Time 413: Elf Jane	Wrapped toy PC in red wrapping paper.
-Time 413: Elf Jane	Placed toy PC on sleigh.
+Time 430: Elf Jane	Selected toy Train for girl.
+Time 430: Elf Jane	Wrapped toy Train in silver wrapping paper.
+Time 430: Elf Jane	Placed toy Train on sleigh.
 
-Time 414: Elf Jane	Selected toy Tablet for boy.
-Time 415: Elf Jane	Wrapped toy Tablet in blue wrapping paper.
-Time 423: Elf Jane	Placed toy Tablet on sleigh.
+Time 430: Elf Jane	Selected toy Doll for girl.
+Time 432: Elf Jane	Wrapped toy Doll in silver wrapping paper.
+Time 432: Elf Jane	Placed toy Doll on sleigh.
 
-Time 424: Elf Jane	Selected toy Doll for girl.
-Time 425: Elf Jane	Wrapped toy Doll in pink wrapping paper.
-Time 434: Elf Jane	Placed toy Doll on sleigh.
+Time 433: Elf Jane	Selected toy Tablet for girl.
+Time 435: Elf Jane	Wrapped toy Tablet in pink wrapping paper.
+Time 435: Elf Jane	Placed toy Tablet on sleigh.
 
-Time 435: Elf Jane	Selected toy Doll for boy.
-Time 437: Elf Jane	Wrapped toy Doll in red wrapping paper.
-Time 446: Elf Jane	Placed toy Doll on sleigh.
+Time 436: Elf Jane	Selected toy Car for girl.
+Time 438: Elf Jane	Wrapped toy Car in pink wrapping paper.
+Time 440: Elf Jane	Placed toy Car on sleigh.
 
-Time 446: Elf Jane	Selected toy Guitar for girl.
-Time 446: Elf Jane	Wrapped toy Guitar in pink wrapping paper.
-Time 446: Elf Jane	Placed toy Guitar on sleigh.
+Time 442: Elf Jane	Selected toy Car for girl.
+Time 442: Elf Jane	Wrapped toy Car in silver wrapping paper.
+Time 442: Elf Jane	Placed toy Car on sleigh.
 
-Time 447: Elf Jane	Selected toy Train for boy.
-Time 449: Elf Jane	Wrapped toy Train in blue wrapping paper.
-Time 449: Elf Jane	Placed toy Train on sleigh.
+Time 443: Elf Jane	Selected toy Train for boy.
+Time 444: Elf Jane	Wrapped toy Train in blue wrapping paper.
+Time 459: Elf Jane	Placed toy Train on sleigh.
 
-Time 450: Elf Jane	Selected toy Car for girl.
-Time 450: Elf Jane	Wrapped toy Car in pink wrapping paper.
-Time 454: Elf Jane	Placed toy Car on sleigh.
+Time 461: Elf Jane	Selected toy Dinosaur for boy.
+Time 462: Elf Jane	Wrapped toy Dinosaur in blue wrapping paper.
+Time 462: Elf Jane	Placed toy Dinosaur on sleigh.
 
-Time 456: Elf Jane	Selected toy PC for boy.
-Time 457: Elf Jane	Wrapped toy PC in red wrapping paper.
-Time 457: Elf Jane	Placed toy PC on sleigh.
+Time 462: Elf Jane	Selected toy Barbie for boy.
+Time 463: Elf Jane	Wrapped toy Barbie in blue wrapping paper.
+Time 467: Elf Jane	Placed toy Barbie on sleigh.
 
-Time 458: Elf Jane	Selected toy Puzzle for girl.
-Time 460: Elf Jane	Wrapped toy Puzzle in pink wrapping paper.
-Time 473: Elf Jane	Placed toy Puzzle on sleigh.
+Time 467: Elf Jane	Selected toy Car for boy.
+Time 468: Elf Jane	Wrapped toy Car in blue wrapping paper.
+Time 468: Elf Jane	Placed toy Car on sleigh.
 
-Time 474: Elf Jane	Selected toy Car for girl.
-Time 475: Elf Jane	Wrapped toy Car in pink wrapping paper.
-Time 475: Elf Jane	Placed toy Car on sleigh.
+Time 468: Elf Jane	Selected toy Train for girl.
+Time 469: Elf Jane	Wrapped toy Train in silver wrapping paper.
+Time 469: Elf Jane	Placed toy Train on sleigh.
 
-Time 477: Elf Jane	Selected toy Tablet for girl.
-Time 478: Elf Jane	Wrapped toy Tablet in silver wrapping paper.
-Time 480: Elf Jane	Placed toy Tablet on sleigh.
+Time 470: Elf Jane	Selected toy Puzzle for boy.
+Time 471: Elf Jane	Wrapped toy Puzzle in blue wrapping paper.
+Time 474: Elf Jane	Placed toy Puzzle on sleigh.
+
+Time 475: Elf Jane	Selected toy PC for girl.
+Time 476: Elf Jane	Wrapped toy PC in pink wrapping paper.
+Time 476: Elf Jane	Placed toy PC on sleigh.
+
+Time 477: Elf Jane	Selected toy Dinosaur for boy.
+Time 478: Elf Jane	Wrapped toy Dinosaur in red wrapping paper.
+Time 480: Elf Jane	Placed toy Dinosaur on sleigh.
 

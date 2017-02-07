@@ -20,15 +20,17 @@ public class Elf extends Thread {
     private int hTicks = 0;
 
     /**
-     * Arbitrary list with toys 
+     * Arbitrary list of Toys 
      */
     private static final String[] toys = { "Doll", "Train", "Car", "Dinosaur", "Drums", "Barbie", "Drone", "Guitar", "Puzzle", "Tablet", "PC" };
 
     /**
-     * output to a txt file
+     * The PrintWriter class, is used to print formatted and human 
+     * readable data in a stream. The text-output stream can be 
+     * either OutputStream or Writer. It contains methods for printing
+     * the primitive types as text-format representation instead as byte values.
      */
     PrintWriter writer;
-    private int lastPrint = 0;
 
     public Elf(String name, Sleight s) {
         
@@ -38,7 +40,8 @@ public class Elf extends Thread {
         try {
             
             /**
-             * Each text file has the name of the corresponding elf
+             * Each text file is logged with the name
+             * of the corresponding name
              */
             writer = new PrintWriter("Elf-" + elf_id + ".txt", "UTF-8");
             
@@ -48,7 +51,13 @@ public class Elf extends Thread {
         }
     }
 
-    
+    /**
+     * This method is used to add gifts into the sleight
+     * by using the sleight object and the addToSleight
+     * function which just take the chosen gift and add it 
+     * at the sleight array  
+     * @param p 
+     */
     private void Produce(Present p) {
         sleight.addToSleight(p);
         putOnSleight++;
@@ -60,7 +69,7 @@ public class Elf extends Thread {
 
             /**
              * Choosing toys from the shelves
-             * of the toy department
+             * of the Toy Department
              */
             try {
                 
@@ -78,6 +87,8 @@ public class Elf extends Thread {
              * boolean variable for detecting if
              * it is boy or girl
              * it return a random boolean true or false
+             * If the gender is try it return boy otherwise
+             * it return false.
              */
             boolean gender;
             boolean colour;
@@ -87,37 +98,79 @@ public class Elf extends Thread {
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Selected toy " + toy + " for " +(gender?"boy.":"girl."));
             
             /**
-             * Wrapping toy in a corresponding paper
+             * Wrapping toy in a corresponding paper.
+             * The color for wrapping is chosen random again if its boy 
+             * the wrapping paper is either blue or red and if its girl
+             * the color is pink or silver
              */
             try {
                 
                 sleep((int) (Math.random() * rand)); //pause the thread for random period of time
                 
             } catch (InterruptedException ex) {}
-                        
+            
+            /**
+             * The present class is used as an interface for 
+             * the gifts which takes as arguments the type of
+             * the gift and if its for boy or girl and randomly
+             * return the present name if its for girl or boy
+             * and wrapped into the corresponding paper
+             */
             Present p = new Present(toy, gender, colour);
 
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Wrapped toy " + toy + " in "+ (gender?(colour? "blue":"red"):(colour? "pink" : "silver")) + " wrapping paper."); 
+           /**
+            * Increasing the number of the 
+            * wrapped Toys.
+            */
             toyCount++; 
             
+            /**
+             * This synchronized method is used to lock the sleigh object.
+             * I am using a loop to check if the sleight is full and that the clock
+             * object is not terminated. If its true then the Elves are required to 
+             * enter the waiting statement until the Santas empty the sleight.
+             */
             synchronized(sleight){
                 int startTime = clock.getTick();
                 while(sleight.isFull() && clock.getState() != Thread.State.TERMINATED){    
                     try{
+                        
+                        /**
+                         * causes current thread to wait until another thread 
+                         * invokes the notifyAll() method for this object.
+                         */
                         sleight.wait(); 
                     } catch (InterruptedException ex){}
                 }
+                
+                /**
+                 * This if statement check that the 
+                 * sleight is not full so it can
+                 * proceed to insert gifts
+                 */
                 if(!sleight.isFull()){ 
                     Produce(p);
                 }
                 int endTime = clock.getTick();
                 ticksWaiting += endTime - startTime;
+                
+                /**
+                 * Wakes up all threads that are 
+                 * waiting on this object's monitor.
+                 */
                 sleight.notifyAll();
             }
 
             writer.println(clock.toString() + "Elf " + elf_id + "\t" + "Placed toy " + toy + " on sleigh.");
             writer.println();
             
+            /**
+             * A check if the clock counter
+             * passed one hour if uses it store the ticks
+             * waiting of the elf during the current hour
+             * and increase the gift wrapped during this hour. 
+             */
             if(clock.isHour()){
                 hTicks = clock.getTick();
                 hCount++;
@@ -126,18 +179,32 @@ public class Elf extends Thread {
         writer.close();
     }
 
+     /**
+     * A method that is printed at the end of the program,
+     * to show the progress of the Santas at the end of the day
+     */
     public void output() {
         System.out.println("Elf " + elf_id + "\t" +"Number of gifts wrapped: " + toyCount);
         System.out.println("Elf " + elf_id + "\t" +"Put gifts of the sleight: " + putOnSleight);
         System.out.println("Elf " + elf_id + "\t" +"Time Spent waiting: " + ticksWaiting + " ticks" + "\n");
     }
 
+    /**
+     * A method called inside the main class
+     * to print hourly report for each Elf
+     * into the console.
+     */
     public void report() {
         String report = "For " +  clock.getTick()/60 + " hours " + "Elf " + elf_id + "\t" + "has wrapped " + hCount + " Gifts" + "\t" + "and have waited " + hTicks + " seconds";
         System.out.println(report);
         System.out.println();
     }
 
+    /**
+     * A method to get the current number
+     * of the wrapped presents
+     * @return 
+     */
     public int getToyElfCount() {
         return toyCount;
     }
